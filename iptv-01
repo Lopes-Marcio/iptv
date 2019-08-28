@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E FHD" tvg-logo="https://static.clubsrv.me/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E FHD
-http://csrv.tv:80/live/Marcio_Lopes/ibr5lis6/2025.m3u8
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/eh5fbHwK8GgBuib8vG8Ntok7ZAR_small.jpg" group-title="New",The Rookie S01 E18
+http://csrv.tv:80/series/Marcio_Lopes/ibr5lis6/28735.mp4
