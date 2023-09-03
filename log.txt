@@ -2,3 +2,4 @@
 0830. 🎨 style: apply consistent indentation
 0908. ♻️ chore: bump dependencies
 0608. 🔧 refactor: remove redundant code blocks
+0052. 🎨 style: standardize quote style
