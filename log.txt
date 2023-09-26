@@ -4,3 +4,4 @@
 0608. 🔧 refactor: remove redundant code blocks
 0052. 🎨 style: standardize quote style
 0946. ✅ test: add unit test for quiz service
+0085. ✨ feat: support email verification
