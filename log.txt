@@ -16,3 +16,4 @@
 0406. ✨ feat: add export to CSV option
 0529. 📚 docs: write FAQ section
 0816. 🔧 refactor: organize models into subfolders
+0860. 🔧 refactor: organize models into subfolders
