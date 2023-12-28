@@ -20,3 +20,4 @@
 0532. 🔧 refactor: split large controller into smaller functions
 0501. ✨ feat: add export to CSV option
 0270. ♻️ chore: rename env.example
+0945. ♻️ chore: add GitHub actions badge
