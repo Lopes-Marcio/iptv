@@ -21,3 +21,4 @@
 0501. ✨ feat: add export to CSV option
 0270. ♻️ chore: rename env.example
 0945. ♻️ chore: add GitHub actions badge
+0591. ♻️ chore: clean up unused files
