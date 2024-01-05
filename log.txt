@@ -23,3 +23,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0591. ♻️ chore: clean up unused files
 0527. 🎨 style: remove trailing whitespace
+0448. 🐛 fix: correct typo in registration form
