@@ -26,3 +26,4 @@
 0448. 🐛 fix: correct typo in registration form
 0034. 📚 docs: improve code comments in utils
 0640. ♻️ chore: bump dependencies
+0685. ✅ test: test user registration edge cases
