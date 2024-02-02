@@ -30,3 +30,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0078. ♻️ chore: update .gitignore
 0654. ✨ feat: create admin dashboard
+0651. ✨ feat: enable dark mode toggle
