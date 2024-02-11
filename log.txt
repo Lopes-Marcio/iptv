@@ -37,3 +37,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0523. ♻️ chore: bump dependencies
 0823. ✨ feat: add user authentication
+0660. 🐛 fix: correct typo in registration form
