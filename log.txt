@@ -42,3 +42,4 @@
 0669. ✨ feat: enable dark mode toggle
 0250. 📚 docs: update README with setup steps
 0317. ✅ test: test user registration edge cases
+0492. 🎨 style: remove trailing whitespace
