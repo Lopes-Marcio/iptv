@@ -44,3 +44,4 @@
 0317. ✅ test: test user registration edge cases
 0492. 🎨 style: remove trailing whitespace
 0374. 🎨 style: standardize quote style
+0648. ♻️ chore: bump dependencies
