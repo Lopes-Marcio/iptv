@@ -45,3 +45,4 @@
 0492. 🎨 style: remove trailing whitespace
 0374. 🎨 style: standardize quote style
 0648. ♻️ chore: bump dependencies
+0552. 🐛 fix: fix null pointer exception on login
