@@ -47,3 +47,4 @@
 0648. ♻️ chore: bump dependencies
 0552. 🐛 fix: fix null pointer exception on login
 0831. 📚 docs: clarify environment setup
+0168. ✅ test: add integration test for /submit endpoint
