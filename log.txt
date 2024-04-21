@@ -52,3 +52,4 @@
 0402. 🎨 style: reformat files with black
 0616. 🚀 perf: lazy-load components
 0359. 🔧 refactor: clean up auth middleware
+0617. ✨ feat: support email verification
