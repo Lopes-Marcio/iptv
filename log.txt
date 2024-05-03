@@ -54,3 +54,4 @@
 0359. 🔧 refactor: clean up auth middleware
 0617. ✨ feat: support email verification
 0904. ✨ feat: implement quiz timer feature
+0475. 🔧 refactor: clean up auth middleware
