@@ -56,3 +56,4 @@
 0904. ✨ feat: implement quiz timer feature
 0475. 🔧 refactor: clean up auth middleware
 0443. 🎨 style: standardize quote style
+0426. ✅ test: add integration test for /submit endpoint
