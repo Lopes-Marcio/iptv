@@ -61,3 +61,4 @@
 0940. 📚 docs: document token refresh logic
 0743. 🎨 style: apply consistent indentation
 0755. 🚀 perf: cache repeated calculations
+0268. 🐛 fix: prevent crash on empty input
