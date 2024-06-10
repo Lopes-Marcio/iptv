@@ -62,3 +62,4 @@
 0743. 🎨 style: apply consistent indentation
 0755. 🚀 perf: cache repeated calculations
 0268. 🐛 fix: prevent crash on empty input
+0241. 📚 docs: add API usage examples
