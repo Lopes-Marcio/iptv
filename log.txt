@@ -65,3 +65,4 @@
 0241. 📚 docs: add API usage examples
 0021. ✨ feat: support email verification
 0150. 🎨 style: remove trailing whitespace
+0859. ✨ feat: create admin dashboard
