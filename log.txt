@@ -66,3 +66,4 @@
 0021. ✨ feat: support email verification
 0150. 🎨 style: remove trailing whitespace
 0859. ✨ feat: create admin dashboard
+0862. ♻️ chore: bump dependencies
