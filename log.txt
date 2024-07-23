@@ -74,3 +74,4 @@
 0800. 🚀 perf: optimize database query for quiz results
 0680. ♻️ chore: add GitHub actions badge
 0786. ✨ feat: enable dark mode toggle
+0897. 🐛 fix: prevent crash on empty input
