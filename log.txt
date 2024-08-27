@@ -83,3 +83,4 @@
 0624. ✅ test: add unit test for quiz service
 0645. 🐛 fix: resolve issue with date parsing
 0827. 🚀 perf: optimize database query for quiz results
+0551. 📚 docs: write FAQ section
