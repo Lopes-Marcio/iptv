@@ -84,3 +84,4 @@
 0645. 🐛 fix: resolve issue with date parsing
 0827. 🚀 perf: optimize database query for quiz results
 0551. 📚 docs: write FAQ section
+1000. ✅ test: increase coverage on auth module
