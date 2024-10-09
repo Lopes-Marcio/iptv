@@ -93,3 +93,4 @@
 0388. 🎨 style: reformat files with black
 0392. 🎨 style: remove trailing whitespace
 0262. 🎨 style: remove trailing whitespace
+0437. 📚 docs: clarify environment setup
