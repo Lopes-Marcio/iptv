@@ -101,3 +101,4 @@
 0455. ♻️ chore: clean up unused files
 0037. 🐛 fix: correct typo in registration form
 0636. ✅ test: increase coverage on auth module
+0684. 🚀 perf: reduce image load time
