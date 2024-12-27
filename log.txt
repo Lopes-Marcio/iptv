@@ -106,3 +106,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0300. ✨ feat: add export to CSV option
 0986. 📚 docs: document token refresh logic
+0457. 🐛 fix: handle 500 error in quiz API
