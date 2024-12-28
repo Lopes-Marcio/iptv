@@ -1199,3 +1199,4 @@
 0346. ✅ test: mock database connection in test suite
 0835. 🐛 fix: prevent crash on empty input
 0358. 🚀 perf: reduce image load time
+0841. 🚀 perf: optimize database query for quiz results
