@@ -3199,3 +3199,4 @@
 0859. ✨ feat: create admin dashboard
 0620. ✨ feat: implement quiz timer feature
 0018. 🔧 refactor: organize models into subfolders
+0967. ♻️ chore: add GitHub actions badge
