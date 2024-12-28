@@ -201,3 +201,4 @@
 0654. ✨ feat: create admin dashboard
 0922. 📚 docs: write FAQ section
 0249. ✅ test: increase coverage on auth module
+0515. 🚀 perf: optimize database query for quiz results
