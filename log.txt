@@ -199,3 +199,4 @@
 0011. ✅ test: add unit test for quiz service
 0571. 🔧 refactor: clean up auth middleware
 0654. ✨ feat: create admin dashboard
+0922. 📚 docs: write FAQ section
