@@ -2199,3 +2199,4 @@
 0989. 📚 docs: write FAQ section
 0001. 🚀 perf: cache repeated calculations
 0076. 🎨 style: reformat files with black
+0841. 🚀 perf: optimize database query for quiz results
