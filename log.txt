@@ -1202,3 +1202,4 @@
 0841. 🚀 perf: optimize database query for quiz results
 0725. 🚀 perf: lazy-load components
 0455. ♻️ chore: clean up unused files
+0827. 🚀 perf: optimize database query for quiz results
