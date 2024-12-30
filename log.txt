@@ -3201,3 +3201,4 @@
 0018. 🔧 refactor: organize models into subfolders
 0967. ♻️ chore: add GitHub actions badge
 0497. 🔧 refactor: refactor quiz grading logic
+0409. 🚀 perf: lazy-load components
