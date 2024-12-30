@@ -207,3 +207,4 @@
 0793. 📚 docs: clarify environment setup
 0441. 📚 docs: add API usage examples
 0832. 🔧 refactor: remove redundant code blocks
+0391. 🐛 fix: fix null pointer exception on login
