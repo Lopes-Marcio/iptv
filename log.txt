@@ -1210,3 +1210,4 @@
 0848. 📚 docs: update README with setup steps
 0804. ♻️ chore: add GitHub actions badge
 0651. ✨ feat: enable dark mode toggle
+0429. ✨ feat: add user authentication
