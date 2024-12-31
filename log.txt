@@ -210,3 +210,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0501. ✨ feat: add export to CSV option
 0634. 🎨 style: reformat files with black
+0468. 📚 docs: update README with setup steps
