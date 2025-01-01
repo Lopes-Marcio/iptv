@@ -1211,3 +1211,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0651. ✨ feat: enable dark mode toggle
 0429. ✨ feat: add user authentication
+0794. ♻️ chore: clean up unused files
