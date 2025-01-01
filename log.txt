@@ -3207,3 +3207,4 @@
 0389. 📚 docs: improve code comments in utils
 0144. ✅ test: increase coverage on auth module
 0172. 📚 docs: add API usage examples
+0914. ✅ test: test user registration edge cases
