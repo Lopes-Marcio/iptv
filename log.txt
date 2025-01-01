@@ -2209,3 +2209,4 @@
 0923. ✨ feat: support email verification
 0228. 🔧 refactor: remove redundant code blocks
 0795. 📚 docs: update README with setup steps
+0589. 🐛 fix: fix broken CSS in mobile view
