@@ -213,3 +213,4 @@
 0468. 📚 docs: update README with setup steps
 0074. ♻️ chore: add GitHub actions badge
 0396. 🔧 refactor: split large controller into smaller functions
+0471. ✨ feat: support email verification
