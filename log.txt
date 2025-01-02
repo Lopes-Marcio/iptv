@@ -1216,3 +1216,4 @@
 0158. 📚 docs: clarify environment setup
 0861. ♻️ chore: clean up unused files
 0949. 📚 docs: write FAQ section
+0039. ✅ test: add integration test for /submit endpoint
