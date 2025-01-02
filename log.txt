@@ -215,3 +215,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0471. ✨ feat: support email verification
 0333. 🚀 perf: cache repeated calculations
+0354. 📚 docs: add API usage examples
