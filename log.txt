@@ -1215,3 +1215,4 @@
 0684. 🚀 perf: reduce image load time
 0158. 📚 docs: clarify environment setup
 0861. ♻️ chore: clean up unused files
+0949. 📚 docs: write FAQ section
