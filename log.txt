@@ -217,3 +217,4 @@
 0333. 🚀 perf: cache repeated calculations
 0354. 📚 docs: add API usage examples
 0960. ✅ test: increase coverage on auth module
+0558. ✨ feat: enable dark mode toggle
