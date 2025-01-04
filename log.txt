@@ -3215,3 +3215,4 @@
 0572. ✨ feat: add user authentication
 0614. 🚀 perf: reduce image load time
 0994. 🚀 perf: reduce image load time
+0646. ✅ test: test user registration edge cases
