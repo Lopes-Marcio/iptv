@@ -2215,3 +2215,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0464. 🎨 style: remove trailing whitespace
 0896. 🚀 perf: reduce image load time
+0790. 📚 docs: write FAQ section
