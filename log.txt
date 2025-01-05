@@ -225,3 +225,4 @@
 0944. ✨ feat: add user authentication
 0141. 📚 docs: document token refresh logic
 0645. 🐛 fix: resolve issue with date parsing
+0556. ✨ feat: support email verification
