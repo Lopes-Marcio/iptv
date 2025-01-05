@@ -3222,3 +3222,4 @@
 0547. 📚 docs: write FAQ section
 0380. 🐛 fix: fix null pointer exception on login
 0279. ✨ feat: support email verification
+0059. ♻️ chore: bump dependencies
