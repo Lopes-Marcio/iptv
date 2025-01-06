@@ -227,3 +227,4 @@
 0645. 🐛 fix: resolve issue with date parsing
 0556. ✨ feat: support email verification
 0273. 🚀 perf: reduce image load time
+0178. ✨ feat: support email verification
