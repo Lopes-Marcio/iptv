@@ -229,3 +229,4 @@
 0273. 🚀 perf: reduce image load time
 0178. ✨ feat: support email verification
 0266. 🔧 refactor: remove redundant code blocks
+0430. 🐛 fix: fix null pointer exception on login
