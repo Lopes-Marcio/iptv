@@ -2219,3 +2219,4 @@
 0674. 🔧 refactor: split large controller into smaller functions
 0992. ♻️ chore: clean up unused files
 0607. 🐛 fix: prevent crash on empty input
+0187. ✨ feat: support email verification
