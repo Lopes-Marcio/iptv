@@ -3224,3 +3224,4 @@
 0279. ✨ feat: support email verification
 0059. ♻️ chore: bump dependencies
 0924. ✅ test: mock database connection in test suite
+0502. 📚 docs: update README with setup steps
