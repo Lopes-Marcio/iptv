@@ -1235,3 +1235,4 @@
 0356. 📚 docs: write FAQ section
 0371. ✅ test: add integration test for /submit endpoint
 0606. 📚 docs: improve code comments in utils
+0048. 📚 docs: update README with setup steps
