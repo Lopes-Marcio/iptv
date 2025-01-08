@@ -2225,3 +2225,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0197. 📚 docs: update README with setup steps
 0635. 🎨 style: apply consistent indentation
+0940. 📚 docs: document token refresh logic
