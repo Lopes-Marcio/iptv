@@ -3229,3 +3229,4 @@
 0482. ✨ feat: add export to CSV option
 0203. 🚀 perf: lazy-load components
 0825. 🔧 refactor: split large controller into smaller functions
+0526. ✨ feat: add user authentication
