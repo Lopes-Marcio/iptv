@@ -1246,3 +1246,4 @@
 0111. 📚 docs: update README with setup steps
 0258. 🐛 fix: prevent crash on empty input
 0205. 📚 docs: update README with setup steps
+0161. ✨ feat: create admin dashboard
