@@ -2240,3 +2240,4 @@
 0989. 📚 docs: write FAQ section
 0527. 🎨 style: remove trailing whitespace
 0785. ✨ feat: enable dark mode toggle
+0555. ✨ feat: create admin dashboard
