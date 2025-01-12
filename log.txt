@@ -1250,3 +1250,4 @@
 0343. 🚀 perf: optimize database query for quiz results
 0779. 🔧 refactor: organize models into subfolders
 0819. 🚀 perf: reduce image load time
+0278. 🔧 refactor: clean up auth middleware
