@@ -2241,3 +2241,4 @@
 0527. 🎨 style: remove trailing whitespace
 0785. ✨ feat: enable dark mode toggle
 0555. ✨ feat: create admin dashboard
+0332. 🎨 style: standardize quote style
