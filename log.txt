@@ -246,3 +246,4 @@
 0650. ✅ test: add unit test for quiz service
 0539. 🔧 refactor: organize models into subfolders
 0405. ✅ test: mock database connection in test suite
+0373. 📚 docs: document token refresh logic
