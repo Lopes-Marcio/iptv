@@ -3237,3 +3237,4 @@
 0986. 📚 docs: document token refresh logic
 0654. ✨ feat: create admin dashboard
 0374. 🎨 style: standardize quote style
+0959. 🐛 fix: fix null pointer exception on login
