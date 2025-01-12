@@ -1248,3 +1248,4 @@
 0205. 📚 docs: update README with setup steps
 0161. ✨ feat: create admin dashboard
 0343. 🚀 perf: optimize database query for quiz results
+0779. 🔧 refactor: organize models into subfolders
