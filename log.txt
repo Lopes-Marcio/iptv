@@ -249,3 +249,4 @@
 0373. 📚 docs: document token refresh logic
 0232. 🎨 style: apply consistent indentation
 0341. 🚀 perf: lazy-load components
+0710. 🐛 fix: fix broken CSS in mobile view
