@@ -1253,3 +1253,4 @@
 0278. 🔧 refactor: clean up auth middleware
 0904. ✨ feat: implement quiz timer feature
 0412. ✅ test: increase coverage on auth module
+0559. 🔧 refactor: split large controller into smaller functions
