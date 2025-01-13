@@ -250,3 +250,4 @@
 0232. 🎨 style: apply consistent indentation
 0341. 🚀 perf: lazy-load components
 0710. 🐛 fix: fix broken CSS in mobile view
+0308. 🚀 perf: reduce image load time
