@@ -3240,3 +3240,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0727. ♻️ chore: add GitHub actions badge
 0525. ✅ test: mock database connection in test suite
+0980. 🎨 style: reformat files with black
