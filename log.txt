@@ -2247,3 +2247,4 @@
 0845. 🚀 perf: cache repeated calculations
 0139. 📚 docs: document token refresh logic
 0348. ✅ test: test user registration edge cases
+0466. 🚀 perf: optimize database query for quiz results
