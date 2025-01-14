@@ -1255,3 +1255,4 @@
 0412. ✅ test: increase coverage on auth module
 0559. 🔧 refactor: split large controller into smaller functions
 0608. 🔧 refactor: remove redundant code blocks
+0279. ✨ feat: support email verification
