@@ -2252,3 +2252,4 @@
 0121. ✨ feat: support email verification
 0580. ♻️ chore: bump dependencies
 0990. ♻️ chore: rename env.example
+0402. 🎨 style: reformat files with black
