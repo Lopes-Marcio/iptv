@@ -3248,3 +3248,4 @@
 0121. ✨ feat: support email verification
 0338. ♻️ chore: add GitHub actions badge
 0507. 🔧 refactor: clean up auth middleware
+0647. 🐛 fix: prevent crash on empty input
