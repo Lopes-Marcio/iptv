@@ -3250,3 +3250,4 @@
 0507. 🔧 refactor: clean up auth middleware
 0647. 🐛 fix: prevent crash on empty input
 0738. 🐛 fix: prevent crash on empty input
+0446. 🎨 style: apply consistent indentation
