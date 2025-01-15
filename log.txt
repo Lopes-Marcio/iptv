@@ -1260,3 +1260,4 @@
 0197. 📚 docs: update README with setup steps
 0716. ✨ feat: implement quiz timer feature
 0078. ♻️ chore: update .gitignore
+0877. 🚀 perf: optimize database query for quiz results
