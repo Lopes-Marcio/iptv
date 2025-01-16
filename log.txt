@@ -1265,3 +1265,4 @@
 0617. ✨ feat: support email verification
 0986. 📚 docs: document token refresh logic
 0787. ♻️ chore: rename env.example
+0866. 📚 docs: add API usage examples
