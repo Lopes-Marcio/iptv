@@ -1277,3 +1277,4 @@
 0547. 📚 docs: write FAQ section
 0104. 🎨 style: apply consistent indentation
 0798. 🚀 perf: reduce image load time
+0252. 🎨 style: remove trailing whitespace
