@@ -2262,3 +2262,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0498. ✅ test: mock database connection in test suite
 0297. 🎨 style: remove trailing whitespace
+0571. 🔧 refactor: clean up auth middleware
