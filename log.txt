@@ -3262,3 +3262,4 @@
 0033. 🎨 style: apply consistent indentation
 0927. ♻️ chore: bump dependencies
 0702. ✨ feat: add user authentication
+0459. 🔧 refactor: organize models into subfolders
