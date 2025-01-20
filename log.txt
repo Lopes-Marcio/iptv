@@ -3264,3 +3264,4 @@
 0702. ✨ feat: add user authentication
 0459. 🔧 refactor: organize models into subfolders
 0896. 🚀 perf: reduce image load time
+0083. 🎨 style: reformat files with black
