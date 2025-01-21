@@ -1288,3 +1288,4 @@
 0881. 🔧 refactor: split large controller into smaller functions
 0919. 🚀 perf: optimize database query for quiz results
 0675. 🔧 refactor: organize models into subfolders
+0085. ✨ feat: support email verification
