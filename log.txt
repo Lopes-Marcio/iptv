@@ -271,3 +271,4 @@
 0395. 📚 docs: write FAQ section
 0319. 🐛 fix: handle 500 error in quiz API
 0903. ✅ test: mock database connection in test suite
+0353. ♻️ chore: rename env.example
