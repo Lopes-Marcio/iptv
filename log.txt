@@ -1287,3 +1287,4 @@
 0163. ✨ feat: implement quiz timer feature
 0881. 🔧 refactor: split large controller into smaller functions
 0919. 🚀 perf: optimize database query for quiz results
+0675. 🔧 refactor: organize models into subfolders
