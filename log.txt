@@ -2271,3 +2271,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0089. 🔧 refactor: remove redundant code blocks
 0379. ✨ feat: support email verification
+0770. ♻️ chore: rename env.example
