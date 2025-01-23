@@ -1292,3 +1292,4 @@
 0793. 📚 docs: clarify environment setup
 0628. ♻️ chore: add GitHub actions badge
 0556. ✨ feat: support email verification
+0809. ♻️ chore: rename env.example
