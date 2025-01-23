@@ -2270,3 +2270,4 @@
 0421. 🔧 refactor: split large controller into smaller functions
 0531. 🐛 fix: prevent crash on empty input
 0089. 🔧 refactor: remove redundant code blocks
+0379. ✨ feat: support email verification
