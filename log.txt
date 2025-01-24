@@ -1293,3 +1293,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0556. ✨ feat: support email verification
 0809. ♻️ chore: rename env.example
+0367. 🐛 fix: fix null pointer exception on login
