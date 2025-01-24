@@ -3274,3 +3274,4 @@
 1000. ✅ test: increase coverage on auth module
 0878. 🔧 refactor: split large controller into smaller functions
 0270. ♻️ chore: rename env.example
+0516. ✅ test: add unit test for quiz service
