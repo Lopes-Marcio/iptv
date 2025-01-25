@@ -2274,3 +2274,4 @@
 0770. ♻️ chore: rename env.example
 0396. 🔧 refactor: split large controller into smaller functions
 0180. ✨ feat: add export to CSV option
+0463. 🚀 perf: reduce image load time
