@@ -1296,3 +1296,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0338. ♻️ chore: add GitHub actions badge
 0658. 🎨 style: rename variables for clarity
+0874. 🔧 refactor: split large controller into smaller functions
