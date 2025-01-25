@@ -288,3 +288,4 @@
 0357. ✅ test: add unit test for quiz service
 0109. 🚀 perf: lazy-load components
 0685. ✅ test: test user registration edge cases
+0491. 🚀 perf: lazy-load components
