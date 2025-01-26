@@ -2276,3 +2276,4 @@
 0180. ✨ feat: add export to CSV option
 0463. 🚀 perf: reduce image load time
 0141. 📚 docs: document token refresh logic
+0240. 🔧 refactor: remove redundant code blocks
