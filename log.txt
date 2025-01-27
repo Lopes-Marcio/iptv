@@ -2279,3 +2279,4 @@
 0240. 🔧 refactor: remove redundant code blocks
 0171. 🐛 fix: fix broken CSS in mobile view
 0566. 📚 docs: write FAQ section
+0511. 🐛 fix: fix broken CSS in mobile view
