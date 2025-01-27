@@ -1302,3 +1302,4 @@
 0121. ✨ feat: support email verification
 0667. ✨ feat: add export to CSV option
 0235. 🐛 fix: fix null pointer exception on login
+0465. 🎨 style: rename variables for clarity
