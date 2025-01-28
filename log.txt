@@ -3288,3 +3288,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0921. 🐛 fix: correct typo in registration form
 0930. 🎨 style: apply consistent indentation
+0349. ✅ test: increase coverage on auth module
