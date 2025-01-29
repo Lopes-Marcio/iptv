@@ -3291,3 +3291,4 @@
 0349. ✅ test: increase coverage on auth module
 0655. 🚀 perf: cache repeated calculations
 0521. 🎨 style: standardize quote style
+0573. ✅ test: add integration test for /submit endpoint
