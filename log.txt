@@ -2283,3 +2283,4 @@
 0664. ✅ test: add unit test for quiz service
 0016. 🎨 style: apply consistent indentation
 0677. 📚 docs: add API usage examples
+0525. ✅ test: mock database connection in test suite
