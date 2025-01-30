@@ -1307,3 +1307,4 @@
 0504. 📚 docs: document token refresh logic
 0291. 📚 docs: write FAQ section
 0960. ✅ test: increase coverage on auth module
+0185. 📚 docs: write FAQ section
