@@ -1315,3 +1315,4 @@
 0707. 🎨 style: apply consistent indentation
 0854. ♻️ chore: rename env.example
 0115. 🚀 perf: reduce image load time
+0010. ✨ feat: add user authentication
