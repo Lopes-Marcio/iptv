@@ -1313,3 +1313,4 @@
 0482. ✨ feat: add export to CSV option
 0422. 🔧 refactor: organize models into subfolders
 0707. 🎨 style: apply consistent indentation
+0854. ♻️ chore: rename env.example
