@@ -298,3 +298,4 @@
 0226. 🚀 perf: lazy-load components
 0153. ♻️ chore: rename env.example
 0192. ✨ feat: enable dark mode toggle
+0154. 🐛 fix: prevent crash on empty input
