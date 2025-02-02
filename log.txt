@@ -1320,3 +1320,4 @@
 0596. ♻️ chore: update .gitignore
 0930. 🎨 style: apply consistent indentation
 0287. 📚 docs: write FAQ section
+0913. 🚀 perf: optimize database query for quiz results
