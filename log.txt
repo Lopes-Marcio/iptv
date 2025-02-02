@@ -3303,3 +3303,4 @@
 0850. ♻️ chore: rename env.example
 0115. 🚀 perf: reduce image load time
 0555. ✨ feat: create admin dashboard
+0637. 🎨 style: apply consistent indentation
