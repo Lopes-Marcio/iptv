@@ -300,3 +300,4 @@
 0192. ✨ feat: enable dark mode toggle
 0154. 🐛 fix: prevent crash on empty input
 0230. ✨ feat: create admin dashboard
+0096. 🐛 fix: prevent crash on empty input
