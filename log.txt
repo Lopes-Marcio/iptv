@@ -1326,3 +1326,4 @@
 0209. ✨ feat: implement quiz timer feature
 0946. ✅ test: add unit test for quiz service
 0379. ✨ feat: support email verification
+0397. 🐛 fix: handle 500 error in quiz API
