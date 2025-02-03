@@ -3305,3 +3305,4 @@
 0555. ✨ feat: create admin dashboard
 0637. 🎨 style: apply consistent indentation
 0795. 📚 docs: update README with setup steps
+0797. 📚 docs: add API usage examples
