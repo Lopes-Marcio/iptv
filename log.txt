@@ -301,3 +301,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0230. ✨ feat: create admin dashboard
 0096. 🐛 fix: prevent crash on empty input
+0393. 🚀 perf: lazy-load components
