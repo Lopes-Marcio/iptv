@@ -1328,3 +1328,4 @@
 0379. ✨ feat: support email verification
 0397. 🐛 fix: handle 500 error in quiz API
 0408. ♻️ chore: add GitHub actions badge
+0561. 📚 docs: write FAQ section
