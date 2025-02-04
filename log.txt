@@ -302,3 +302,4 @@
 0230. ✨ feat: create admin dashboard
 0096. 🐛 fix: prevent crash on empty input
 0393. 🚀 perf: lazy-load components
+0215. 🎨 style: reformat files with black
