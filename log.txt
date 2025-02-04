@@ -1330,3 +1330,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0561. 📚 docs: write FAQ section
 0295. 🎨 style: remove trailing whitespace
+0748. 🚀 perf: optimize database query for quiz results
