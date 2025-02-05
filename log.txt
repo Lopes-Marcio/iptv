@@ -3309,3 +3309,4 @@
 0275. 🎨 style: standardize quote style
 0443. 🎨 style: standardize quote style
 0051. ✨ feat: enable dark mode toggle
+0848. 📚 docs: update README with setup steps
