@@ -3312,3 +3312,4 @@
 0848. 📚 docs: update README with setup steps
 0392. 🎨 style: remove trailing whitespace
 0132. ✅ test: add unit test for quiz service
+0653. 🐛 fix: prevent crash on empty input
