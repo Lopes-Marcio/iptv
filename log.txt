@@ -3321,3 +3321,4 @@
 0623. 🎨 style: standardize quote style
 0235. 🐛 fix: fix null pointer exception on login
 0470. 🎨 style: remove trailing whitespace
+0206. 🐛 fix: handle 500 error in quiz API
