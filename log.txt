@@ -314,3 +314,4 @@
 0873. 🚀 perf: cache repeated calculations
 0936. 🔧 refactor: organize models into subfolders
 0487. 🎨 style: reformat files with black
+0246. ✅ test: add integration test for /submit endpoint
