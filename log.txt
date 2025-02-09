@@ -2312,3 +2312,4 @@
 0132. ✅ test: add unit test for quiz service
 0053. ✅ test: increase coverage on auth module
 0038. 🎨 style: rename variables for clarity
+0985. 📚 docs: document token refresh logic
