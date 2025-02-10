@@ -3324,3 +3324,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0453. 🎨 style: standardize quote style
 0287. 📚 docs: write FAQ section
+0305. ✨ feat: enable dark mode toggle
