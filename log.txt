@@ -316,3 +316,4 @@
 0487. 🎨 style: reformat files with black
 0246. ✅ test: add integration test for /submit endpoint
 0735. ♻️ chore: add GitHub actions badge
+0762. 🚀 perf: lazy-load components
