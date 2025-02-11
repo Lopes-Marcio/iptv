@@ -2318,3 +2318,4 @@
 0147. ♻️ chore: bump dependencies
 0475. 🔧 refactor: clean up auth middleware
 0260. ✨ feat: create admin dashboard
+0625. 🐛 fix: handle 500 error in quiz API
