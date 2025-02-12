@@ -322,3 +322,4 @@
 0839. 🎨 style: apply consistent indentation
 0222. 🐛 fix: handle 500 error in quiz API
 0052. 🎨 style: standardize quote style
+0666. 🐛 fix: fix broken CSS in mobile view
