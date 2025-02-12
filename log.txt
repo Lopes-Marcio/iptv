@@ -3331,3 +3331,4 @@
 0015. ✨ feat: implement quiz timer feature
 0397. 🐛 fix: handle 500 error in quiz API
 0983. 🔧 refactor: split large controller into smaller functions
+0998. 🐛 fix: fix null pointer exception on login
