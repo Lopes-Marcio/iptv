@@ -3329,3 +3329,4 @@
 0640. ♻️ chore: bump dependencies
 0116. ✨ feat: support email verification
 0015. ✨ feat: implement quiz timer feature
+0397. 🐛 fix: handle 500 error in quiz API
