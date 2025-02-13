@@ -2324,3 +2324,4 @@
 0145. 📚 docs: improve code comments in utils
 0755. 🚀 perf: cache repeated calculations
 0917. ✅ test: add integration test for /submit endpoint
+0683. ✅ test: mock database connection in test suite
