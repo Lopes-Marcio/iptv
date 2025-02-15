@@ -329,3 +329,4 @@
 0356. 📚 docs: write FAQ section
 0655. 🚀 perf: cache repeated calculations
 0196. ♻️ chore: bump dependencies
+0162. ♻️ chore: add GitHub actions badge
