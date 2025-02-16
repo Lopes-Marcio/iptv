@@ -3339,3 +3339,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0236. 🔧 refactor: remove redundant code blocks
 0449. ✅ test: add unit test for quiz service
+0249. ✅ test: increase coverage on auth module
