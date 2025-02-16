@@ -1360,3 +1360,4 @@
 0470. 🎨 style: remove trailing whitespace
 0189. 📚 docs: clarify environment setup
 0950. 🎨 style: reformat files with black
+0178. ✨ feat: support email verification
