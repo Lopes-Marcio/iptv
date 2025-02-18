@@ -337,3 +337,4 @@
 0173. 🚀 perf: cache repeated calculations
 0103. 🔧 refactor: remove redundant code blocks
 0734. ✨ feat: add export to CSV option
+0669. ✨ feat: enable dark mode toggle
