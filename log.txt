@@ -2337,3 +2337,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0705. 🔧 refactor: refactor quiz grading logic
 0345. 📚 docs: document token refresh logic
+0231. 🔧 refactor: clean up auth middleware
