@@ -2340,3 +2340,4 @@
 0231. 🔧 refactor: clean up auth middleware
 0902. ✨ feat: enable dark mode toggle
 0816. 🔧 refactor: organize models into subfolders
+0349. ✅ test: increase coverage on auth module
