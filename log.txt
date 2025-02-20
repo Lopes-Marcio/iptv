@@ -340,3 +340,4 @@
 0669. ✨ feat: enable dark mode toggle
 0169. 📚 docs: add API usage examples
 0630. 🚀 perf: lazy-load components
+0502. 📚 docs: update README with setup steps
