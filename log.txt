@@ -1372,3 +1372,4 @@
 0896. 🚀 perf: reduce image load time
 0843. 📚 docs: document token refresh logic
 0137. 🎨 style: rename variables for clarity
+0995. ✅ test: mock database connection in test suite
