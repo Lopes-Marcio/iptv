@@ -3349,3 +3349,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0975. 🎨 style: apply consistent indentation
 0749. ✨ feat: support email verification
+0513. ♻️ chore: bump dependencies
