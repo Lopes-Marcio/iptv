@@ -345,3 +345,4 @@
 0493. ✨ feat: add user authentication
 0596. ♻️ chore: update .gitignore
 0848. 📚 docs: update README with setup steps
+0186. ✅ test: test user registration edge cases
