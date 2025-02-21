@@ -2344,3 +2344,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0491. 🚀 perf: lazy-load components
 0759. 🔧 refactor: organize models into subfolders
+0453. 🎨 style: standardize quote style
