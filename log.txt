@@ -3350,3 +3350,4 @@
 0975. 🎨 style: apply consistent indentation
 0749. ✨ feat: support email verification
 0513. ♻️ chore: bump dependencies
+0091. ✨ feat: add user authentication
