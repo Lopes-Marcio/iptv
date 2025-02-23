@@ -2351,3 +2351,4 @@
 0915. 🚀 perf: cache repeated calculations
 0268. 🐛 fix: prevent crash on empty input
 0326. 🚀 perf: cache repeated calculations
+0941. 🚀 perf: cache repeated calculations
