@@ -350,3 +350,4 @@
 0019. ✨ feat: enable dark mode toggle
 0041. 🐛 fix: fix broken CSS in mobile view
 0455. ♻️ chore: clean up unused files
+0557. 🔧 refactor: clean up auth middleware
