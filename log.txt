@@ -3353,3 +3353,4 @@
 0091. ✨ feat: add user authentication
 0938. 🎨 style: rename variables for clarity
 0949. 📚 docs: write FAQ section
+0233. 🚀 perf: lazy-load components
