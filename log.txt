@@ -2359,3 +2359,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0317. ✅ test: test user registration edge cases
 0484. 🐛 fix: handle 500 error in quiz API
+0203. 🚀 perf: lazy-load components
