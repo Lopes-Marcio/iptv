@@ -2357,3 +2357,4 @@
 0179. 🔧 refactor: split large controller into smaller functions
 0162. ♻️ chore: add GitHub actions badge
 0211. 🔧 refactor: remove redundant code blocks
+0317. ✅ test: test user registration edge cases
