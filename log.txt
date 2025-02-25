@@ -1381,3 +1381,4 @@
 0024. 📚 docs: write FAQ section
 0591. ♻️ chore: clean up unused files
 0497. 🔧 refactor: refactor quiz grading logic
+0144. ✅ test: increase coverage on auth module
