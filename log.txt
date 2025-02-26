@@ -1382,3 +1382,4 @@
 0591. ♻️ chore: clean up unused files
 0497. 🔧 refactor: refactor quiz grading logic
 0144. ✅ test: increase coverage on auth module
+0415. 🐛 fix: handle 500 error in quiz API
