@@ -2361,3 +2361,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0203. 🚀 perf: lazy-load components
 0350. 🚀 perf: cache repeated calculations
+0503. ♻️ chore: rename env.example
