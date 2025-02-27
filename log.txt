@@ -3360,3 +3360,4 @@
 0991. ♻️ chore: clean up unused files
 0622. 🎨 style: apply consistent indentation
 0488. ♻️ chore: add GitHub actions badge
+0990. ♻️ chore: rename env.example
