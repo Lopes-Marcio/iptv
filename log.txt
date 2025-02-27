@@ -1384,3 +1384,4 @@
 0144. ✅ test: increase coverage on auth module
 0415. 🐛 fix: handle 500 error in quiz API
 0992. ♻️ chore: clean up unused files
+0760. 🐛 fix: resolve issue with date parsing
