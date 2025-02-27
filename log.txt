@@ -3361,3 +3361,4 @@
 0622. 🎨 style: apply consistent indentation
 0488. ♻️ chore: add GitHub actions badge
 0990. ♻️ chore: rename env.example
+0439. 🐛 fix: correct typo in registration form
