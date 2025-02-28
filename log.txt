@@ -1388,3 +1388,4 @@
 0595. ✨ feat: enable dark mode toggle
 0814. 🔧 refactor: remove redundant code blocks
 0480. ♻️ chore: add GitHub actions badge
+0515. 🚀 perf: optimize database query for quiz results
