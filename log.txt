@@ -2367,3 +2367,4 @@
 0779. 🔧 refactor: organize models into subfolders
 0447. ♻️ chore: bump dependencies
 0803. ✅ test: mock database connection in test suite
+0090. ✅ test: increase coverage on auth module
