@@ -2369,3 +2369,4 @@
 0803. ✅ test: mock database connection in test suite
 0090. ✅ test: increase coverage on auth module
 0330. ✅ test: test user registration edge cases
+0939. 📚 docs: update README with setup steps
