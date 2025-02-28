@@ -363,3 +363,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0945. ♻️ chore: add GitHub actions badge
 0209. ✨ feat: implement quiz timer feature
+0888. 🚀 perf: lazy-load components
