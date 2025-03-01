@@ -2370,3 +2370,4 @@
 0090. ✅ test: increase coverage on auth module
 0330. ✅ test: test user registration edge cases
 0939. 📚 docs: update README with setup steps
+0609. 🐛 fix: handle 500 error in quiz API
