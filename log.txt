@@ -368,3 +368,4 @@
 0798. 🚀 perf: reduce image load time
 0695. ✨ feat: create admin dashboard
 0420. 🚀 perf: reduce image load time
+0584. 🚀 perf: lazy-load components
