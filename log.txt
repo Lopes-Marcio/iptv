@@ -1394,3 +1394,4 @@
 0296. 🔧 refactor: organize models into subfolders
 0695. ✨ feat: create admin dashboard
 0835. 🐛 fix: prevent crash on empty input
+0444. ✅ test: add unit test for quiz service
