@@ -372,3 +372,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0536. ✨ feat: add user authentication
 0092. 🚀 perf: reduce image load time
+0963. 🚀 perf: reduce image load time
