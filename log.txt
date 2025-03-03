@@ -2373,3 +2373,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0947. 📚 docs: write FAQ section
 0335. ♻️ chore: update .gitignore
+0850. ♻️ chore: rename env.example
