@@ -1396,3 +1396,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0444. ✅ test: add unit test for quiz service
 0624. ✅ test: add unit test for quiz service
+0264. 🚀 perf: optimize database query for quiz results
