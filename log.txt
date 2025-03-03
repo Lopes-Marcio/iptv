@@ -2375,3 +2375,4 @@
 0335. ♻️ chore: update .gitignore
 0850. ♻️ chore: rename env.example
 0548. 📚 docs: write FAQ section
+0431. 🎨 style: reformat files with black
