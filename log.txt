@@ -1402,3 +1402,4 @@
 0256. ✅ test: mock database connection in test suite
 0437. 📚 docs: clarify environment setup
 0737. 🐛 fix: handle 500 error in quiz API
+0174. 📚 docs: clarify environment setup
