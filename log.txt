@@ -2379,3 +2379,4 @@
 0481. ✅ test: add unit test for quiz service
 0167. 🚀 perf: reduce image load time
 0460. 📚 docs: write FAQ section
+0792. 🎨 style: standardize quote style
