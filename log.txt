@@ -377,3 +377,4 @@
 0067. 🔧 refactor: remove redundant code blocks
 0292. 📚 docs: clarify environment setup
 0035. ✅ test: increase coverage on auth module
+0133. 🐛 fix: fix null pointer exception on login
