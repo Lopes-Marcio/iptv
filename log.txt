@@ -124,3 +124,4 @@
 0335. ♻️ chore: update .gitignore
 0587. 🔧 refactor: remove redundant code blocks
 0543. ✨ feat: support email verification
+0127. 🐛 fix: fix null pointer exception on login
