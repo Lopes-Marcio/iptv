@@ -3374,3 +3374,4 @@
 0752. ✅ test: add integration test for /submit endpoint
 0096. 🐛 fix: prevent crash on empty input
 0659. 📚 docs: add API usage examples
+0128. ♻️ chore: rename env.example
