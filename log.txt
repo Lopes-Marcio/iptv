@@ -379,3 +379,4 @@
 0035. ✅ test: increase coverage on auth module
 0133. 🐛 fix: fix null pointer exception on login
 0522. 🐛 fix: handle 500 error in quiz API
+0200. 🐛 fix: handle 500 error in quiz API
