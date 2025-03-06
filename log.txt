@@ -380,3 +380,4 @@
 0133. 🐛 fix: fix null pointer exception on login
 0522. 🐛 fix: handle 500 error in quiz API
 0200. 🐛 fix: handle 500 error in quiz API
+0678. ✨ feat: add user authentication
