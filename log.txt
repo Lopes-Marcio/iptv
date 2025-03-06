@@ -3376,3 +3376,4 @@
 0659. 📚 docs: add API usage examples
 0128. ♻️ chore: rename env.example
 0849. 🐛 fix: correct typo in registration form
+0841. 🚀 perf: optimize database query for quiz results
