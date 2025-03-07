@@ -381,3 +381,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0200. 🐛 fix: handle 500 error in quiz API
 0678. ✨ feat: add user authentication
+0633. ✨ feat: add user authentication
