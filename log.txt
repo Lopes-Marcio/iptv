@@ -1409,3 +1409,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0492. 🎨 style: remove trailing whitespace
 0116. ✨ feat: support email verification
+0736. 🐛 fix: fix null pointer exception on login
