@@ -1408,3 +1408,4 @@
 0469. 🚀 perf: lazy-load components
 0807. 🔧 refactor: remove redundant code blocks
 0492. 🎨 style: remove trailing whitespace
+0116. ✨ feat: support email verification
