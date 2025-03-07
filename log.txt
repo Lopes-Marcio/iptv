@@ -1411,3 +1411,4 @@
 0116. ✨ feat: support email verification
 0736. 🐛 fix: fix null pointer exception on login
 0876. ♻️ chore: rename env.example
+0483. 📚 docs: update README with setup steps
