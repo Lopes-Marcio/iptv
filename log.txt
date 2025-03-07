@@ -3382,3 +3382,4 @@
 0362. 📚 docs: add API usage examples
 0023. 📚 docs: clarify environment setup
 0232. 🎨 style: apply consistent indentation
+0320. 📚 docs: update README with setup steps
