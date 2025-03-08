@@ -3385,3 +3385,4 @@
 0320. 📚 docs: update README with setup steps
 0205. 📚 docs: update README with setup steps
 0372. ✨ feat: add user authentication
+0912. 📚 docs: document token refresh logic
