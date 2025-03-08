@@ -383,3 +383,4 @@
 0678. ✨ feat: add user authentication
 0633. ✨ feat: add user authentication
 0661. ✅ test: add integration test for /submit endpoint
+0048. 📚 docs: update README with setup steps
