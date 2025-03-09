@@ -2387,3 +2387,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0279. ✨ feat: support email verification
 0001. 🚀 perf: cache repeated calculations
+0159. 🚀 perf: lazy-load components
