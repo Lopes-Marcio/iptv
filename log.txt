@@ -387,3 +387,4 @@
 0884. 📚 docs: clarify environment setup
 0551. 📚 docs: write FAQ section
 0730. ✅ test: test user registration edge cases
+0503. ♻️ chore: rename env.example
