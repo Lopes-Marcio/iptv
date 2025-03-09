@@ -3388,3 +3388,4 @@
 0912. 📚 docs: document token refresh logic
 0240. 🔧 refactor: remove redundant code blocks
 0606. 📚 docs: improve code comments in utils
+0451. ✨ feat: support email verification
