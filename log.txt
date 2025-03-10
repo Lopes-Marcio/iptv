@@ -1415,3 +1415,4 @@
 0612. ✅ test: test user registration edge cases
 0423. ✅ test: mock database connection in test suite
 0646. ✅ test: test user registration edge cases
+0026. 🔧 refactor: clean up auth middleware
