@@ -2390,3 +2390,4 @@
 0159. 🚀 perf: lazy-load components
 0101. 📚 docs: clarify environment setup
 0415. 🐛 fix: handle 500 error in quiz API
+0026. 🔧 refactor: clean up auth middleware
