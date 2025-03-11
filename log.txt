@@ -1420,3 +1420,4 @@
 0008. 🚀 perf: reduce image load time
 0801. ✨ feat: enable dark mode toggle
 0939. 📚 docs: update README with setup steps
+0921. 🐛 fix: correct typo in registration form
