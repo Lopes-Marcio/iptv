@@ -3395,3 +3395,4 @@
 0631. ✨ feat: create admin dashboard
 0468. 📚 docs: update README with setup steps
 0554. 📚 docs: improve code comments in utils
+0085. ✨ feat: support email verification
