@@ -394,3 +394,4 @@
 0262. 🎨 style: remove trailing whitespace
 0473. 📚 docs: write FAQ section
 0106. 🎨 style: reformat files with black
+0627. 📚 docs: document token refresh logic
