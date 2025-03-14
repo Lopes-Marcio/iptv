@@ -395,3 +395,4 @@
 0473. 📚 docs: write FAQ section
 0106. 🎨 style: reformat files with black
 0627. 📚 docs: document token refresh logic
+0667. ✨ feat: add export to CSV option
