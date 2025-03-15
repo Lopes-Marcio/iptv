@@ -1425,3 +1425,4 @@
 0420. 🚀 perf: reduce image load time
 0732. ♻️ chore: add GitHub actions badge
 0457. 🐛 fix: handle 500 error in quiz API
+0723. 🔧 refactor: remove redundant code blocks
