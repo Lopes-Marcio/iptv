@@ -398,3 +398,4 @@
 0667. ✨ feat: add export to CSV option
 0587. 🔧 refactor: remove redundant code blocks
 0790. 📚 docs: write FAQ section
+0676. 🐛 fix: prevent crash on empty input
