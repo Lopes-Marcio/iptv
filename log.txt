@@ -400,3 +400,4 @@
 0790. 📚 docs: write FAQ section
 0676. 🐛 fix: prevent crash on empty input
 0789. ✨ feat: create admin dashboard
+0583. ✅ test: increase coverage on auth module
