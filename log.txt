@@ -3405,3 +3405,4 @@
 0291. 📚 docs: write FAQ section
 0838. 🎨 style: standardize quote style
 0842. 🎨 style: remove trailing whitespace
+0344. ♻️ chore: add GitHub actions badge
