@@ -3406,3 +3406,4 @@
 0838. 🎨 style: standardize quote style
 0842. 🎨 style: remove trailing whitespace
 0344. ♻️ chore: add GitHub actions badge
+0224. 🐛 fix: fix broken CSS in mobile view
