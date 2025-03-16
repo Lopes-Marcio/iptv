@@ -1430,3 +1430,4 @@
 0962. ✨ feat: create admin dashboard
 0016. 🎨 style: apply consistent indentation
 0297. 🎨 style: remove trailing whitespace
+0378. 🐛 fix: prevent crash on empty input
