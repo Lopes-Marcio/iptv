@@ -407,3 +407,4 @@
 0544. 🔧 refactor: organize models into subfolders
 0834. ✅ test: increase coverage on auth module
 0841. 🚀 perf: optimize database query for quiz results
+0364. 🐛 fix: resolve issue with date parsing
