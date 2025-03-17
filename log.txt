@@ -406,3 +406,4 @@
 0345. 📚 docs: document token refresh logic
 0544. 🔧 refactor: organize models into subfolders
 0834. ✅ test: increase coverage on auth module
+0841. 🚀 perf: optimize database query for quiz results
