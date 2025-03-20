@@ -2417,3 +2417,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0574. ✨ feat: enable dark mode toggle
 0227. ✅ test: test user registration edge cases
+0306. 🎨 style: apply consistent indentation
