@@ -412,3 +412,4 @@
 0989. 📚 docs: write FAQ section
 0245. 🐛 fix: resolve issue with date parsing
 0687. 🎨 style: remove trailing whitespace
+0609. 🐛 fix: handle 500 error in quiz API
