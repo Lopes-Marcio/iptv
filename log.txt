@@ -2420,3 +2420,4 @@
 0306. 🎨 style: apply consistent indentation
 0997. ✅ test: increase coverage on auth module
 0768. 🎨 style: remove trailing whitespace
+0112. ✨ feat: enable dark mode toggle
