@@ -414,3 +414,4 @@
 0687. 🎨 style: remove trailing whitespace
 0609. 🐛 fix: handle 500 error in quiz API
 0818. 🔧 refactor: remove redundant code blocks
+0206. 🐛 fix: handle 500 error in quiz API
