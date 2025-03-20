@@ -1439,3 +1439,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0729. 🔧 refactor: refactor quiz grading logic
 0665. ♻️ chore: update .gitignore
+0900. 🐛 fix: handle 500 error in quiz API
