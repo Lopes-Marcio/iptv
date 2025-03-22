@@ -1441,3 +1441,4 @@
 0665. ♻️ chore: update .gitignore
 0900. 🐛 fix: handle 500 error in quiz API
 0719. 🎨 style: apply consistent indentation
+0003. ✅ test: increase coverage on auth module
