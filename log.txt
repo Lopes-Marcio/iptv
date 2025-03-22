@@ -3424,3 +3424,4 @@
 0583. ✅ test: increase coverage on auth module
 0303. 🎨 style: rename variables for clarity
 0410. 🎨 style: reformat files with black
+0351. ✨ feat: add export to CSV option
