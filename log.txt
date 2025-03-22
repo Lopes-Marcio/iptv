@@ -420,3 +420,4 @@
 0624. ✅ test: add unit test for quiz service
 0497. 🔧 refactor: refactor quiz grading logic
 0275. 🎨 style: standardize quote style
+0150. 🎨 style: remove trailing whitespace
