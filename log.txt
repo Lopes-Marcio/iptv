@@ -1443,3 +1443,4 @@
 0719. 🎨 style: apply consistent indentation
 0003. ✅ test: increase coverage on auth module
 0277. 🎨 style: standardize quote style
+0985. 📚 docs: document token refresh logic
