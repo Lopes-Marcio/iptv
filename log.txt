@@ -424,3 +424,4 @@
 0543. ✨ feat: support email verification
 0184. 📚 docs: improve code comments in utils
 0366. 🔧 refactor: remove redundant code blocks
+0958. 🐛 fix: prevent crash on empty input
