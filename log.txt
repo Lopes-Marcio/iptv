@@ -422,3 +422,4 @@
 0275. 🎨 style: standardize quote style
 0150. 🎨 style: remove trailing whitespace
 0543. ✨ feat: support email verification
+0184. 📚 docs: improve code comments in utils
