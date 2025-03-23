@@ -3426,3 +3426,4 @@
 0410. 🎨 style: reformat files with black
 0351. ✨ feat: add export to CSV option
 0846. ✨ feat: implement quiz timer feature
+0641. 📚 docs: write FAQ section
