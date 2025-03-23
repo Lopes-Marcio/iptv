@@ -423,3 +423,4 @@
 0150. 🎨 style: remove trailing whitespace
 0543. ✨ feat: support email verification
 0184. 📚 docs: improve code comments in utils
+0366. 🔧 refactor: remove redundant code blocks
