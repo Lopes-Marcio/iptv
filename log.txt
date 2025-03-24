@@ -3429,3 +3429,4 @@
 0641. 📚 docs: write FAQ section
 0923. ✨ feat: support email verification
 0805. ♻️ chore: add GitHub actions badge
+0008. 🚀 perf: reduce image load time
