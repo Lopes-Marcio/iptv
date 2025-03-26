@@ -3436,3 +3436,4 @@
 0347. ♻️ chore: update .gitignore
 0933. 📚 docs: clarify environment setup
 0185. 📚 docs: write FAQ section
+0247. 🎨 style: apply consistent indentation
