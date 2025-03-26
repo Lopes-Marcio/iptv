@@ -2433,3 +2433,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0191. 🔧 refactor: refactor quiz grading logic
 0136. 🚀 perf: lazy-load components
+0960. ✅ test: increase coverage on auth module
