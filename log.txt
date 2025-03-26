@@ -1452,3 +1452,4 @@
 0147. ♻️ chore: bump dependencies
 0626. 🎨 style: standardize quote style
 0053. ✅ test: increase coverage on auth module
+0212. 🎨 style: standardize quote style
