@@ -3435,3 +3435,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0347. ♻️ chore: update .gitignore
 0933. 📚 docs: clarify environment setup
+0185. 📚 docs: write FAQ section
