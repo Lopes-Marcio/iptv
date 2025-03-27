@@ -3439,3 +3439,4 @@
 0247. 🎨 style: apply consistent indentation
 0277. 🎨 style: standardize quote style
 0438. ♻️ chore: bump dependencies
+0109. 🚀 perf: lazy-load components
