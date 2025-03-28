@@ -437,3 +437,4 @@
 0547. 📚 docs: write FAQ section
 0682. ♻️ chore: rename env.example
 0379. ✨ feat: support email verification
+0521. 🎨 style: standardize quote style
