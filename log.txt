@@ -1460,3 +1460,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 0847. ♻️ chore: clean up unused files
 0065. ✅ test: add integration test for /submit endpoint
+0394. 🚀 perf: lazy-load components
