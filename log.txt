@@ -2443,3 +2443,4 @@
 0987. ✨ feat: create admin dashboard
 0098. 🎨 style: rename variables for clarity
 0982. 🚀 perf: lazy-load components
+0286. ✅ test: mock database connection in test suite
