@@ -2442,3 +2442,4 @@
 0984. ♻️ chore: clean up unused files
 0987. ✨ feat: create admin dashboard
 0098. 🎨 style: rename variables for clarity
+0982. 🚀 perf: lazy-load components
