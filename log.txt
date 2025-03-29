@@ -1462,3 +1462,4 @@
 0065. ✅ test: add integration test for /submit endpoint
 0394. 🚀 perf: lazy-load components
 0019. ✨ feat: enable dark mode toggle
+0099. 🚀 perf: reduce image load time
