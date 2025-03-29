@@ -3444,3 +3444,4 @@
 0766. 🎨 style: reformat files with black
 0970. ♻️ chore: update .gitignore
 0813. 🔧 refactor: organize models into subfolders
+0696. 🔧 refactor: clean up auth middleware
