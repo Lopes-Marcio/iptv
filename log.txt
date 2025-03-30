@@ -1465,3 +1465,4 @@
 0099. 🚀 perf: reduce image load time
 0856. 🐛 fix: fix null pointer exception on login
 0081. 🐛 fix: fix null pointer exception on login
+0663. 🚀 perf: reduce image load time
