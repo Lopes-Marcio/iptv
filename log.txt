@@ -439,3 +439,4 @@
 0379. ✨ feat: support email verification
 0521. 🎨 style: standardize quote style
 0385. ♻️ chore: clean up unused files
+0712. 🎨 style: apply consistent indentation
