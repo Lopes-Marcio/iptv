@@ -2447,3 +2447,4 @@
 0275. 🎨 style: standardize quote style
 0397. 🐛 fix: handle 500 error in quiz API
 0435. ✅ test: add unit test for quiz service
+0344. ♻️ chore: add GitHub actions badge
