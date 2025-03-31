@@ -2453,3 +2453,4 @@
 0146. 🎨 style: apply consistent indentation
 0371. ✅ test: add integration test for /submit endpoint
 0044. ✅ test: add unit test for quiz service
+0320. 📚 docs: update README with setup steps
