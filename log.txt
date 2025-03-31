@@ -441,3 +441,4 @@
 0385. ♻️ chore: clean up unused files
 0712. 🎨 style: apply consistent indentation
 0329. 📚 docs: update README with setup steps
+0338. ♻️ chore: add GitHub actions badge
