@@ -2449,3 +2449,4 @@
 0435. ✅ test: add unit test for quiz service
 0344. ♻️ chore: add GitHub actions badge
 0342. 🚀 perf: cache repeated calculations
+0689. 🎨 style: reformat files with black
