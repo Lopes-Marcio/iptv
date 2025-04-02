@@ -446,3 +446,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0242. ♻️ chore: clean up unused files
 0499. 🎨 style: reformat files with black
+0861. ♻️ chore: clean up unused files
