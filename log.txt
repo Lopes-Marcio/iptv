@@ -2463,3 +2463,4 @@
 0208. 🔧 refactor: clean up auth middleware
 0489. 🔧 refactor: organize models into subfolders
 0881. 🔧 refactor: split large controller into smaller functions
+0685. ✅ test: test user registration edge cases
