@@ -3459,3 +3459,4 @@
 0809. ♻️ chore: rename env.example
 0824. 🚀 perf: lazy-load components
 0202. 🔧 refactor: refactor quiz grading logic
+0584. 🚀 perf: lazy-load components
