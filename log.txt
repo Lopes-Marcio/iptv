@@ -3457,3 +3457,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0916. ♻️ chore: bump dependencies
 0809. ♻️ chore: rename env.example
+0824. 🚀 perf: lazy-load components
