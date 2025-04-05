@@ -1478,3 +1478,4 @@
 0845. 🚀 perf: cache repeated calculations
 0762. 🚀 perf: lazy-load components
 0777. 📚 docs: document token refresh logic
+0393. 🚀 perf: lazy-load components
