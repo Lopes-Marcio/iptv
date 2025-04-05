@@ -1476,3 +1476,4 @@
 0508. ✅ test: add unit test for quiz service
 0521. 🎨 style: standardize quote style
 0845. 🚀 perf: cache repeated calculations
+0762. 🚀 perf: lazy-load components
