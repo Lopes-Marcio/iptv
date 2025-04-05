@@ -3465,3 +3465,4 @@
 0175. 📚 docs: add API usage examples
 0501. ✨ feat: add export to CSV option
 0679. ♻️ chore: bump dependencies
+0058. ♻️ chore: add GitHub actions badge
