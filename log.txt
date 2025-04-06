@@ -1482,3 +1482,4 @@
 0410. 🎨 style: reformat files with black
 0589. 🐛 fix: fix broken CSS in mobile view
 0165. 🎨 style: remove trailing whitespace
+0029. 🚀 perf: lazy-load components
