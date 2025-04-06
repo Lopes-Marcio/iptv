@@ -3467,3 +3467,4 @@
 0679. ♻️ chore: bump dependencies
 0058. ♻️ chore: add GitHub actions badge
 0337. 📚 docs: document token refresh logic
+0384. 📚 docs: clarify environment setup
