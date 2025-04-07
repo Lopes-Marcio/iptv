@@ -3472,3 +3472,4 @@
 0682. ♻️ chore: rename env.example
 0225. 🚀 perf: reduce image load time
 0956. 📚 docs: clarify environment setup
+0836. 🚀 perf: optimize database query for quiz results
