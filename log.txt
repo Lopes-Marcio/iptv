@@ -2473,3 +2473,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0458. ✨ feat: create admin dashboard
 0114. ♻️ chore: update .gitignore
+0037. 🐛 fix: correct typo in registration form
