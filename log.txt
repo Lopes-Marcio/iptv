@@ -2470,3 +2470,4 @@
 0495. 🔧 refactor: remove redundant code blocks
 0868. ✅ test: add unit test for quiz service
 0242. ♻️ chore: clean up unused files
+0710. 🐛 fix: fix broken CSS in mobile view
