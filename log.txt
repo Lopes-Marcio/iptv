@@ -3470,3 +3470,4 @@
 0384. 📚 docs: clarify environment setup
 0581. ✅ test: add integration test for /submit endpoint
 0682. ♻️ chore: rename env.example
+0225. 🚀 perf: reduce image load time
