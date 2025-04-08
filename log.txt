@@ -3474,3 +3474,4 @@
 0956. 📚 docs: clarify environment setup
 0836. 🚀 perf: optimize database query for quiz results
 0545. 🎨 style: standardize quote style
+0296. 🔧 refactor: organize models into subfolders
