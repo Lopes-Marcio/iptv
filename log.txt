@@ -1490,3 +1490,4 @@
 0894. ✅ test: add integration test for /submit endpoint
 0389. 📚 docs: improve code comments in utils
 0058. ♻️ chore: add GitHub actions badge
+0568. 🐛 fix: handle 500 error in quiz API
