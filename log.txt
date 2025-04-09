@@ -128,3 +128,4 @@
 0694. 🎨 style: rename variables for clarity
 0454. ♻️ chore: bump dependencies
 0667. ✨ feat: add export to CSV option
+0016. 🎨 style: apply consistent indentation
