@@ -464,3 +464,4 @@
 0360. ✨ feat: add export to CSV option
 0291. 📚 docs: write FAQ section
 0576. ♻️ chore: update .gitignore
+0159. 🚀 perf: lazy-load components
