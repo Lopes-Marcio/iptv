@@ -1493,3 +1493,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0805. ♻️ chore: add GitHub actions badge
 0978. 🐛 fix: prevent crash on empty input
+0228. 🔧 refactor: remove redundant code blocks
