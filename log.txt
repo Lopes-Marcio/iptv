@@ -130,3 +130,4 @@
 0667. ✨ feat: add export to CSV option
 0016. 🎨 style: apply consistent indentation
 0282. 🔧 refactor: remove redundant code blocks
+0605. ✨ feat: support email verification
