@@ -1494,3 +1494,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0978. 🐛 fix: prevent crash on empty input
 0228. 🔧 refactor: remove redundant code blocks
+0621. 🔧 refactor: clean up auth middleware
