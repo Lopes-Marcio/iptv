@@ -468,3 +468,4 @@
 0276. ✅ test: add integration test for /submit endpoint
 0799. ♻️ chore: clean up unused files
 0157. ✅ test: mock database connection in test suite
+0929. ✨ feat: support email verification
