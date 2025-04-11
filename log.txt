@@ -3480,3 +3480,4 @@
 0873. 🚀 perf: cache repeated calculations
 0843. 📚 docs: document token refresh logic
 0999. 🔧 refactor: split large controller into smaller functions
+0556. ✨ feat: support email verification
