@@ -470,3 +470,4 @@
 0157. ✅ test: mock database connection in test suite
 0929. ✨ feat: support email verification
 0744. 🔧 refactor: remove redundant code blocks
+0481. ✅ test: add unit test for quiz service
