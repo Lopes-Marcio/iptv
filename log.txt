@@ -2491,3 +2491,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0353. ♻️ chore: rename env.example
 0921. 🐛 fix: correct typo in registration form
+0719. 🎨 style: apply consistent indentation
