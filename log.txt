@@ -2498,3 +2498,4 @@
 0157. ✅ test: mock database connection in test suite
 0222. 🐛 fix: handle 500 error in quiz API
 0256. ✅ test: mock database connection in test suite
+0611. ✅ test: test user registration edge cases
