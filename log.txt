@@ -132,3 +132,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0605. ✨ feat: support email verification
 0733. 🐛 fix: fix null pointer exception on login
+0709. ♻️ chore: bump dependencies
