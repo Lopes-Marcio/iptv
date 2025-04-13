@@ -2496,3 +2496,4 @@
 0995. ✅ test: mock database connection in test suite
 0312. ✨ feat: add user authentication
 0157. ✅ test: mock database connection in test suite
+0222. 🐛 fix: handle 500 error in quiz API
