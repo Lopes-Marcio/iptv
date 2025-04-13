@@ -1501,3 +1501,4 @@
 0281. ✨ feat: support email verification
 0442. 🎨 style: standardize quote style
 0458. ✨ feat: create admin dashboard
+0826. 📚 docs: clarify environment setup
