@@ -3490,3 +3490,4 @@
 0481. ✅ test: add unit test for quiz service
 0495. 🔧 refactor: remove redundant code blocks
 0104. 🎨 style: apply consistent indentation
+0393. 🚀 perf: lazy-load components
