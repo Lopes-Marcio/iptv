@@ -488,3 +488,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0529. 📚 docs: write FAQ section
 0372. ✨ feat: add user authentication
+0828. ♻️ chore: add GitHub actions badge
