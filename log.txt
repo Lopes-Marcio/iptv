@@ -489,3 +489,4 @@
 0529. 📚 docs: write FAQ section
 0372. ✨ feat: add user authentication
 0828. ♻️ chore: add GitHub actions badge
+0284. ✨ feat: implement quiz timer feature
