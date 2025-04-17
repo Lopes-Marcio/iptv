@@ -2506,3 +2506,4 @@
 0668. 🚀 perf: optimize database query for quiz results
 0052. 🎨 style: standardize quote style
 0251. ♻️ chore: update .gitignore
+0833. ✨ feat: add user authentication
