@@ -3499,3 +3499,4 @@
 0523. ♻️ chore: bump dependencies
 0114. ♻️ chore: update .gitignore
 0845. 🚀 perf: cache repeated calculations
+0072. 🚀 perf: optimize database query for quiz results
