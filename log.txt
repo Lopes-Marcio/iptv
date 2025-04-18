@@ -2509,3 +2509,4 @@
 0833. ✨ feat: add user authentication
 0565. ♻️ chore: add GitHub actions badge
 0750. 🎨 style: apply consistent indentation
+0942. ✅ test: increase coverage on auth module
