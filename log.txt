@@ -2512,3 +2512,4 @@
 0942. ✅ test: increase coverage on auth module
 0680. ♻️ chore: add GitHub actions badge
 0872. 🎨 style: rename variables for clarity
+0272. 🔧 refactor: remove redundant code blocks
