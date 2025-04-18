@@ -2510,3 +2510,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0750. 🎨 style: apply consistent indentation
 0942. ✅ test: increase coverage on auth module
+0680. ♻️ chore: add GitHub actions badge
