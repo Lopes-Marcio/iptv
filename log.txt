@@ -2508,3 +2508,4 @@
 0251. ♻️ chore: update .gitignore
 0833. ✨ feat: add user authentication
 0565. ♻️ chore: add GitHub actions badge
+0750. 🎨 style: apply consistent indentation
