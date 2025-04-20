@@ -2520,3 +2520,4 @@
 0361. ✨ feat: support email verification
 0643. 🎨 style: apply consistent indentation
 0605. ✨ feat: support email verification
+0109. 🚀 perf: lazy-load components
