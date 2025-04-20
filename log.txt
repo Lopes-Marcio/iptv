@@ -496,3 +496,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0925. ✨ feat: add export to CSV option
 0851. ✅ test: mock database connection in test suite
+0725. 🚀 perf: lazy-load components
