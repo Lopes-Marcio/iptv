@@ -3506,3 +3506,4 @@
 0885. ♻️ chore: update .gitignore
 0633. ✨ feat: add user authentication
 0895. ✨ feat: support email verification
+0820. 📚 docs: add API usage examples
