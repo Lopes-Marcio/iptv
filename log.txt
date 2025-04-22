@@ -2524,3 +2524,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0577. ✨ feat: implement quiz timer feature
 0106. 🎨 style: reformat files with black
+0556. ✨ feat: support email verification
