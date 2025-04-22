@@ -2526,3 +2526,4 @@
 0106. 🎨 style: reformat files with black
 0556. ✨ feat: support email verification
 0500. ✅ test: add integration test for /submit endpoint
+0585. 🚀 perf: lazy-load components
