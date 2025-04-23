@@ -2527,3 +2527,4 @@
 0556. ✨ feat: support email verification
 0500. ✅ test: add integration test for /submit endpoint
 0585. 🚀 perf: lazy-load components
+0099. 🚀 perf: reduce image load time
