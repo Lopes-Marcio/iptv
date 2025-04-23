@@ -3508,3 +3508,4 @@
 0895. ✨ feat: support email verification
 0820. 📚 docs: add API usage examples
 0402. 🎨 style: reformat files with black
+0257. 📚 docs: clarify environment setup
