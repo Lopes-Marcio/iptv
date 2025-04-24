@@ -1528,3 +1528,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0958. 🐛 fix: prevent crash on empty input
 0957. 🐛 fix: fix null pointer exception on login
+0822. 🔧 refactor: remove redundant code blocks
