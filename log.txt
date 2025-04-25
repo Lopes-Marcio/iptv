@@ -507,3 +507,4 @@
 0199. ✨ feat: create admin dashboard
 0511. 🐛 fix: fix broken CSS in mobile view
 0351. ✨ feat: add export to CSV option
+0165. 🎨 style: remove trailing whitespace
