@@ -510,3 +510,4 @@
 0165. 🎨 style: remove trailing whitespace
 0733. 🐛 fix: fix null pointer exception on login
 0755. 🚀 perf: cache repeated calculations
+0422. 🔧 refactor: organize models into subfolders
