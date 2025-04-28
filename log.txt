@@ -516,3 +516,4 @@
 0175. 📚 docs: add API usage examples
 0876. ♻️ chore: rename env.example
 0104. 🎨 style: apply consistent indentation
+0675. 🔧 refactor: organize models into subfolders
