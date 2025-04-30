@@ -3530,3 +3530,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0357. ✅ test: add unit test for quiz service
 0736. 🐛 fix: fix null pointer exception on login
+0150. 🎨 style: remove trailing whitespace
