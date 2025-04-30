@@ -2541,3 +2541,4 @@
 0729. 🔧 refactor: refactor quiz grading logic
 0632. 🎨 style: remove trailing whitespace
 0656. 🎨 style: apply consistent indentation
+0248. 🐛 fix: handle 500 error in quiz API
