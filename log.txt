@@ -522,3 +522,4 @@
 0720. ✨ feat: add export to CSV option
 0653. 🐛 fix: prevent crash on empty input
 0334. 🚀 perf: cache repeated calculations
+0727. ♻️ chore: add GitHub actions badge
