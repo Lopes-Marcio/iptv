@@ -526,3 +526,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0679. ♻️ chore: bump dependencies
 0490. ✨ feat: create admin dashboard
+0205. 📚 docs: update README with setup steps
