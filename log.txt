@@ -3537,3 +3537,4 @@
 0831. 📚 docs: clarify environment setup
 0536. ✨ feat: add user authentication
 0664. ✅ test: add unit test for quiz service
+0346. ✅ test: mock database connection in test suite
