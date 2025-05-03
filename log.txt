@@ -2551,3 +2551,4 @@
 0296. 🔧 refactor: organize models into subfolders
 0068. 🐛 fix: fix null pointer exception on login
 0720. ✨ feat: add export to CSV option
+0616. 🚀 perf: lazy-load components
