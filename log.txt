@@ -533,3 +533,4 @@
 0290. ✅ test: test user registration edge cases
 0172. 📚 docs: add API usage examples
 0011. ✅ test: add unit test for quiz service
+0437. 📚 docs: clarify environment setup
