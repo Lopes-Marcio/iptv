@@ -534,3 +534,4 @@
 0172. 📚 docs: add API usage examples
 0011. ✅ test: add unit test for quiz service
 0437. 📚 docs: clarify environment setup
+0051. ✨ feat: enable dark mode toggle
