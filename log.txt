@@ -2559,3 +2559,4 @@
 0221. ✨ feat: add user authentication
 0733. 🐛 fix: fix null pointer exception on login
 0347. ♻️ chore: update .gitignore
+0118. 🚀 perf: reduce image load time
