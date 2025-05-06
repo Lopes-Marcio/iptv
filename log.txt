@@ -2562,3 +2562,4 @@
 0118. 🚀 perf: reduce image load time
 0716. ✨ feat: implement quiz timer feature
 0996. ✅ test: test user registration edge cases
+0791. 🔧 refactor: clean up auth middleware
