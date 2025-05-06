@@ -1562,3 +1562,4 @@
 0879. 🎨 style: standardize quote style
 0131. 📚 docs: write FAQ section
 0969. ✨ feat: create admin dashboard
+0692. ✅ test: add integration test for /submit endpoint
