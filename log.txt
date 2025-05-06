@@ -2561,3 +2561,4 @@
 0347. ♻️ chore: update .gitignore
 0118. 🚀 perf: reduce image load time
 0716. ✨ feat: implement quiz timer feature
+0996. ✅ test: test user registration edge cases
