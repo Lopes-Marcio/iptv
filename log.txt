@@ -1569,3 +1569,4 @@
 0329. 📚 docs: update README with setup steps
 0780. 📚 docs: add API usage examples
 0890. 🔧 refactor: organize models into subfolders
+0820. 📚 docs: add API usage examples
