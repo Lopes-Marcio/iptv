@@ -1565,3 +1565,4 @@
 0692. ✅ test: add integration test for /submit endpoint
 0791. 🔧 refactor: clean up auth middleware
 0080. ✨ feat: support email verification
+0680. ♻️ chore: add GitHub actions badge
