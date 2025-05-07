@@ -1567,3 +1567,4 @@
 0080. ✨ feat: support email verification
 0680. ♻️ chore: add GitHub actions badge
 0329. 📚 docs: update README with setup steps
+0780. 📚 docs: add API usage examples
