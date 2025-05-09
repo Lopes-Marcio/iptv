@@ -1577,3 +1577,4 @@
 0991. ♻️ chore: clean up unused files
 0773. 📚 docs: document token refresh logic
 0649. 📚 docs: update README with setup steps
+0990. ♻️ chore: rename env.example
