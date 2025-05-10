@@ -546,3 +546,4 @@
 0715. ✨ feat: create admin dashboard
 0684. 🚀 perf: reduce image load time
 0005. ✅ test: add unit test for quiz service
+0279. ✨ feat: support email verification
