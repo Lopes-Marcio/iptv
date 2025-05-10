@@ -2570,3 +2570,4 @@
 0624. ✅ test: add unit test for quiz service
 0300. ✨ feat: add export to CSV option
 0218. 🔧 refactor: clean up auth middleware
+0981. 🚀 perf: lazy-load components
