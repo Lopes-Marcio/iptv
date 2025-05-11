@@ -3562,3 +3562,4 @@
 0512. 🚀 perf: reduce image load time
 0435. ✅ test: add unit test for quiz service
 0742. 📚 docs: clarify environment setup
+0050. ✨ feat: enable dark mode toggle
