@@ -551,3 +551,4 @@
 0281. ✨ feat: support email verification
 0390. 🎨 style: standardize quote style
 0819. 🚀 perf: reduce image load time
+0417. 🎨 style: rename variables for clarity
