@@ -1584,3 +1584,4 @@
 0490. ✨ feat: create admin dashboard
 0434. 📚 docs: document token refresh logic
 0838. 🎨 style: standardize quote style
+0027. 📚 docs: clarify environment setup
