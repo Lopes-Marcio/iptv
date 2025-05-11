@@ -1582,3 +1582,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0227. ✅ test: test user registration edge cases
 0490. ✨ feat: create admin dashboard
+0434. 📚 docs: document token refresh logic
