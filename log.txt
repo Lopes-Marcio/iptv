@@ -1581,3 +1581,4 @@
 0750. 🎨 style: apply consistent indentation
 0041. 🐛 fix: fix broken CSS in mobile view
 0227. ✅ test: test user registration edge cases
+0490. ✨ feat: create admin dashboard
