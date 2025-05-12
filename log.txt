@@ -2578,3 +2578,4 @@
 0516. ✅ test: add unit test for quiz service
 0862. ♻️ chore: bump dependencies
 0398. 🚀 perf: cache repeated calculations
+0356. 📚 docs: write FAQ section
