@@ -3565,3 +3565,4 @@
 0050. ✨ feat: enable dark mode toggle
 0858. ♻️ chore: clean up unused files
 0199. ✨ feat: create admin dashboard
+0068. 🐛 fix: fix null pointer exception on login
