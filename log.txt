@@ -555,3 +555,4 @@
 0287. 📚 docs: write FAQ section
 0322. 🔧 refactor: split large controller into smaller functions
 0394. 🚀 perf: lazy-load components
+0512. 🚀 perf: reduce image load time
