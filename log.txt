@@ -2585,3 +2585,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0263. 📚 docs: add API usage examples
 0308. 🚀 perf: reduce image load time
+0533. ♻️ chore: add GitHub actions badge
