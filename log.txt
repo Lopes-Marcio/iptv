@@ -1588,3 +1588,4 @@
 0079. 🐛 fix: correct typo in registration form
 0889. 🚀 perf: lazy-load components
 0454. ♻️ chore: bump dependencies
+0708. ✅ test: add integration test for /submit endpoint
