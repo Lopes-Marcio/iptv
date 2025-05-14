@@ -563,3 +563,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0492. 🎨 style: remove trailing whitespace
 0923. ✨ feat: support email verification
+0620. ✨ feat: implement quiz timer feature
