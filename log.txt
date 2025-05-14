@@ -562,3 +562,4 @@
 0582. ✨ feat: add export to CSV option
 0129. 🔧 refactor: organize models into subfolders
 0492. 🎨 style: remove trailing whitespace
+0923. ✨ feat: support email verification
