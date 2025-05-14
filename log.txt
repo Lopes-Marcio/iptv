@@ -561,3 +561,4 @@
 0243. 🔧 refactor: clean up auth middleware
 0582. ✨ feat: add export to CSV option
 0129. 🔧 refactor: organize models into subfolders
+0492. 🎨 style: remove trailing whitespace
