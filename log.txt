@@ -2593,3 +2593,4 @@
 0593. 🐛 fix: correct typo in registration form
 0427. ✅ test: mock database connection in test suite
 0933. 📚 docs: clarify environment setup
+0018. 🔧 refactor: organize models into subfolders
