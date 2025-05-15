@@ -2597,3 +2597,4 @@
 0333. 🚀 perf: cache repeated calculations
 0490. ✨ feat: create admin dashboard
 0829. 🔧 refactor: organize models into subfolders
+0207. 🐛 fix: prevent crash on empty input
