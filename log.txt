@@ -1596,3 +1596,4 @@
 0982. 🚀 perf: lazy-load components
 0177. 📚 docs: add API usage examples
 0438. ♻️ chore: bump dependencies
+0084. 🐛 fix: handle 500 error in quiz API
