@@ -2598,3 +2598,4 @@
 0490. ✨ feat: create admin dashboard
 0829. 🔧 refactor: organize models into subfolders
 0207. 🐛 fix: prevent crash on empty input
+0773. 📚 docs: document token refresh logic
