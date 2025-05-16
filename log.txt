@@ -568,3 +568,4 @@
 0001. 🚀 perf: cache repeated calculations
 0549. ✨ feat: enable dark mode toggle
 0908. ♻️ chore: bump dependencies
+0368. 🚀 perf: lazy-load components
