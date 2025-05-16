@@ -2599,3 +2599,4 @@
 0829. 🔧 refactor: organize models into subfolders
 0207. 🐛 fix: prevent crash on empty input
 0773. 📚 docs: document token refresh logic
+0354. 📚 docs: add API usage examples
