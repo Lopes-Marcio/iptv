@@ -575,3 +575,4 @@
 0427. ✅ test: mock database connection in test suite
 0317. ✅ test: test user registration edge cases
 0770. ♻️ chore: rename env.example
+0966. 📚 docs: improve code comments in utils
