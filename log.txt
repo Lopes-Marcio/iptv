@@ -580,3 +580,4 @@
 0163. ✨ feat: implement quiz timer feature
 0389. 📚 docs: improve code comments in utils
 0637. 🎨 style: apply consistent indentation
+0797. 📚 docs: add API usage examples
