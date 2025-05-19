@@ -1605,3 +1605,4 @@
 0432. 🎨 style: apply consistent indentation
 0336. ✨ feat: add export to CSV option
 0101. 📚 docs: clarify environment setup
+0476. 🚀 perf: reduce image load time
