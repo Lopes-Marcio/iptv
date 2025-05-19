@@ -2606,3 +2606,4 @@
 0497. 🔧 refactor: refactor quiz grading logic
 0394. 🚀 perf: lazy-load components
 0482. ✨ feat: add export to CSV option
+0614. 🚀 perf: reduce image load time
