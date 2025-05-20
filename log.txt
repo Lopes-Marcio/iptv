@@ -583,3 +583,4 @@
 0797. 📚 docs: add API usage examples
 0531. 🐛 fix: prevent crash on empty input
 0378. 🐛 fix: prevent crash on empty input
+0978. 🐛 fix: prevent crash on empty input
