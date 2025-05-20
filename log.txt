@@ -3584,3 +3584,4 @@
 0251. ♻️ chore: update .gitignore
 0876. ♻️ chore: rename env.example
 0942. ✅ test: increase coverage on auth module
+0768. 🎨 style: remove trailing whitespace
