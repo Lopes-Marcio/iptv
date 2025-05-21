@@ -2609,3 +2609,4 @@
 0614. 🚀 perf: reduce image load time
 0742. 📚 docs: clarify environment setup
 0039. ✅ test: add integration test for /submit endpoint
+0543. ✨ feat: support email verification
