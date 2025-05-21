@@ -1613,3 +1613,4 @@
 0842. 🎨 style: remove trailing whitespace
 0233. 🚀 perf: lazy-load components
 0740. 🐛 fix: resolve issue with date parsing
+0676. 🐛 fix: prevent crash on empty input
