@@ -592,3 +592,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0370. 🚀 perf: reduce image load time
 0948. 🐛 fix: fix broken CSS in mobile view
+0783. 🐛 fix: handle 500 error in quiz API
