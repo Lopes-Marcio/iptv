@@ -2612,3 +2612,4 @@
 0543. ✨ feat: support email verification
 0127. 🐛 fix: fix null pointer exception on login
 0054. ♻️ chore: update .gitignore
+0303. 🎨 style: rename variables for clarity
