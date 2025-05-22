@@ -589,3 +589,4 @@
 0997. ✅ test: increase coverage on auth module
 0707. 🎨 style: apply consistent indentation
 0705. 🔧 refactor: refactor quiz grading logic
+0804. ♻️ chore: add GitHub actions badge
