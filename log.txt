@@ -2610,3 +2610,4 @@
 0742. 📚 docs: clarify environment setup
 0039. ✅ test: add integration test for /submit endpoint
 0543. ✨ feat: support email verification
+0127. 🐛 fix: fix null pointer exception on login
