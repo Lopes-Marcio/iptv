@@ -1617,3 +1617,4 @@
 0786. ✨ feat: enable dark mode toggle
 0994. 🚀 perf: reduce image load time
 0219. ✅ test: increase coverage on auth module
+0997. ✅ test: increase coverage on auth module
