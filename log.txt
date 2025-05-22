@@ -2614,3 +2614,4 @@
 0054. ♻️ chore: update .gitignore
 0303. 🎨 style: rename variables for clarity
 0512. 🚀 perf: reduce image load time
+0735. ♻️ chore: add GitHub actions badge
