@@ -3596,3 +3596,4 @@
 0387. ✨ feat: enable dark mode toggle
 0504. 📚 docs: document token refresh logic
 0418. ✅ test: mock database connection in test suite
+0078. ♻️ chore: update .gitignore
