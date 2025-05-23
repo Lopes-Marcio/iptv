@@ -1618,3 +1618,4 @@
 0994. 🚀 perf: reduce image load time
 0219. ✅ test: increase coverage on auth module
 0997. ✅ test: increase coverage on auth module
+0577. ✨ feat: implement quiz timer feature
