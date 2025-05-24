@@ -3599,3 +3599,4 @@
 0078. ♻️ chore: update .gitignore
 0671. 🐛 fix: fix null pointer exception on login
 0273. 🚀 perf: reduce image load time
+0089. 🔧 refactor: remove redundant code blocks
