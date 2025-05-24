@@ -600,3 +600,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0786. ✨ feat: enable dark mode toggle
 0112. ✨ feat: enable dark mode toggle
+0101. 📚 docs: clarify environment setup
