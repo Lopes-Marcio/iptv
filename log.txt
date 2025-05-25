@@ -2617,3 +2617,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0262. 🎨 style: remove trailing whitespace
 0672. 🐛 fix: fix broken CSS in mobile view
+0100. ♻️ chore: update .gitignore
