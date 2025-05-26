@@ -603,3 +603,4 @@
 0101. 📚 docs: clarify environment setup
 0078. ♻️ chore: update .gitignore
 0765. ♻️ chore: clean up unused files
+0244. ✨ feat: add export to CSV option
