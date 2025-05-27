@@ -2627,3 +2627,4 @@
 0056. ♻️ chore: rename env.example
 0123. ✨ feat: implement quiz timer feature
 0265. 🎨 style: reformat files with black
+0181. ♻️ chore: add GitHub actions badge
