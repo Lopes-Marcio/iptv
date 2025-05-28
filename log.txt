@@ -611,3 +611,4 @@
 0271. ✅ test: add unit test for quiz service
 0652. 🔧 refactor: organize models into subfolders
 0792. 🎨 style: standardize quote style
+1000. ✅ test: increase coverage on auth module
