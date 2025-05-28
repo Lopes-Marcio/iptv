@@ -2629,3 +2629,4 @@
 0265. 🎨 style: reformat files with black
 0181. ♻️ chore: add GitHub actions badge
 0289. 🐛 fix: resolve issue with date parsing
+0307. ✨ feat: support email verification
