@@ -1629,3 +1629,4 @@
 0363. 📚 docs: clarify environment setup
 0272. 🔧 refactor: remove redundant code blocks
 0614. 🚀 perf: reduce image load time
+0922. 📚 docs: write FAQ section
