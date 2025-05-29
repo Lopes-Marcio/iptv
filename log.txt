@@ -614,3 +614,4 @@
 1000. ✅ test: increase coverage on auth module
 0482. ✨ feat: add export to CSV option
 0080. ✨ feat: support email verification
+0431. 🎨 style: reformat files with black
