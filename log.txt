@@ -2633,3 +2633,4 @@
 0944. ✨ feat: add user authentication
 0086. 🐛 fix: correct typo in registration form
 0224. 🐛 fix: fix broken CSS in mobile view
+0606. 📚 docs: improve code comments in utils
