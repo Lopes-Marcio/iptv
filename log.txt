@@ -615,3 +615,4 @@
 0482. ✨ feat: add export to CSV option
 0080. ✨ feat: support email verification
 0431. 🎨 style: reformat files with black
+0601. ✨ feat: implement quiz timer feature
