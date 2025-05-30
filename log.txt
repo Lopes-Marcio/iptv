@@ -2636,3 +2636,4 @@
 0606. 📚 docs: improve code comments in utils
 0687. 🎨 style: remove trailing whitespace
 0965. 🎨 style: reformat files with black
+0258. 🐛 fix: prevent crash on empty input
