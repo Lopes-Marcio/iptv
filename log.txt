@@ -3623,3 +3623,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0318. 🔧 refactor: refactor quiz grading logic
 0705. 🔧 refactor: refactor quiz grading logic
+0379. ✨ feat: support email verification
