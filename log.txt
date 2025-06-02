@@ -3626,3 +3626,4 @@
 0379. ✨ feat: support email verification
 0180. ✨ feat: add export to CSV option
 0332. 🎨 style: standardize quote style
+0835. 🐛 fix: prevent crash on empty input
