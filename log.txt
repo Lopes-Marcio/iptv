@@ -145,3 +145,4 @@
 0151. ✅ test: add unit test for quiz service
 0722. 📚 docs: add API usage examples
 0607. 🐛 fix: prevent crash on empty input
+0740. 🐛 fix: resolve issue with date parsing
