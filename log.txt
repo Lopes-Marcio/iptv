@@ -1637,3 +1637,4 @@
 0037. 🐛 fix: correct typo in registration form
 0689. 🎨 style: reformat files with black
 0980. 🎨 style: reformat files with black
+0502. 📚 docs: update README with setup steps
