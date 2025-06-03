@@ -2646,3 +2646,4 @@
 0908. ♻️ chore: bump dependencies
 0107. 🐛 fix: prevent crash on empty input
 0778. 📚 docs: write FAQ section
+0081. 🐛 fix: fix null pointer exception on login
