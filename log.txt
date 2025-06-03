@@ -2645,3 +2645,4 @@
 0820. 📚 docs: add API usage examples
 0908. ♻️ chore: bump dependencies
 0107. 🐛 fix: prevent crash on empty input
+0778. 📚 docs: write FAQ section
