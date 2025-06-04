@@ -3630,3 +3630,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0105. 🐛 fix: correct typo in registration form
 0531. 🐛 fix: prevent crash on empty input
+0780. 📚 docs: add API usage examples
