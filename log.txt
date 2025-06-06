@@ -1645,3 +1645,4 @@
 0481. ✅ test: add unit test for quiz service
 0639. 🐛 fix: correct typo in registration form
 0488. ♻️ chore: add GitHub actions badge
+0339. 📚 docs: update README with setup steps
