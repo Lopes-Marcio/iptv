@@ -3634,3 +3634,4 @@
 0561. 📚 docs: write FAQ section
 0794. ♻️ chore: clean up unused files
 0209. ✨ feat: implement quiz timer feature
+0020. ✅ test: add integration test for /submit endpoint
