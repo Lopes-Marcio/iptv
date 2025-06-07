@@ -1646,3 +1646,4 @@
 0639. 🐛 fix: correct typo in registration form
 0488. ♻️ chore: add GitHub actions badge
 0339. 📚 docs: update README with setup steps
+0541. 🐛 fix: correct typo in registration form
