@@ -2665,3 +2665,4 @@
 0928. 🎨 style: apply consistent indentation
 0953. 🎨 style: remove trailing whitespace
 0192. ✨ feat: enable dark mode toggle
+0439. 🐛 fix: correct typo in registration form
