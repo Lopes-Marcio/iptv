@@ -2664,3 +2664,4 @@
 0660. 🐛 fix: correct typo in registration form
 0928. 🎨 style: apply consistent indentation
 0953. 🎨 style: remove trailing whitespace
+0192. ✨ feat: enable dark mode toggle
