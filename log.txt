@@ -1655,3 +1655,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0473. 📚 docs: write FAQ section
 0623. 🎨 style: standardize quote style
+0489. 🔧 refactor: organize models into subfolders
