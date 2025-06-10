@@ -1652,3 +1652,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0505. ♻️ chore: add GitHub actions badge
 0717. 🔧 refactor: refactor quiz grading logic
+0511. 🐛 fix: fix broken CSS in mobile view
