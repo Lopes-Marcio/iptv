@@ -1656,3 +1656,4 @@
 0473. 📚 docs: write FAQ section
 0623. 🎨 style: standardize quote style
 0489. 🔧 refactor: organize models into subfolders
+0491. 🚀 perf: lazy-load components
