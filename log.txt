@@ -2672,3 +2672,4 @@
 0782. 📚 docs: improve code comments in utils
 0509. ♻️ chore: bump dependencies
 0405. ✅ test: mock database connection in test suite
+0599. ✅ test: test user registration edge cases
