@@ -637,3 +637,4 @@
 0166. 🚀 perf: cache repeated calculations
 0815. 🔧 refactor: split large controller into smaller functions
 0739. 🎨 style: remove trailing whitespace
+0657. 🎨 style: standardize quote style
