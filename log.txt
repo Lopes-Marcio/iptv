@@ -2674,3 +2674,4 @@
 0405. ✅ test: mock database connection in test suite
 0599. ✅ test: test user registration edge cases
 0050. ✨ feat: enable dark mode toggle
+0290. ✅ test: test user registration edge cases
