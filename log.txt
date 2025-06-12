@@ -1659,3 +1659,4 @@
 0491. 🚀 perf: lazy-load components
 0022. 📚 docs: document token refresh logic
 0194. 🎨 style: standardize quote style
+0898. 🐛 fix: fix broken CSS in mobile view
