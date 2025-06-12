@@ -3653,3 +3653,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0469. 🚀 perf: lazy-load components
 0756. ✨ feat: support email verification
+0492. 🎨 style: remove trailing whitespace
