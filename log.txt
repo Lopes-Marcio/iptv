@@ -3662,3 +3662,4 @@
 0043. ✅ test: add integration test for /submit endpoint
 0605. ✨ feat: support email verification
 0364. 🐛 fix: resolve issue with date parsing
+0485. 📚 docs: update README with setup steps
