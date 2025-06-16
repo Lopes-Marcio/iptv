@@ -1672,3 +1672,4 @@
 0585. 🚀 perf: lazy-load components
 0344. ♻️ chore: add GitHub actions badge
 0495. 🔧 refactor: remove redundant code blocks
+0929. ✨ feat: support email verification
