@@ -2692,3 +2692,4 @@
 0085. ✨ feat: support email verification
 0313. 🎨 style: apply consistent indentation
 0873. 🚀 perf: cache repeated calculations
+0110. 🐛 fix: prevent crash on empty input
