@@ -2689,3 +2689,4 @@
 0055. 📚 docs: update README with setup steps
 0364. 🐛 fix: resolve issue with date parsing
 0188. 🎨 style: apply consistent indentation
+0085. ✨ feat: support email verification
