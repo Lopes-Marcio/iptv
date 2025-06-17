@@ -653,3 +653,4 @@
 0979. 🎨 style: standardize quote style
 0419. 🎨 style: remove trailing whitespace
 0959. 🐛 fix: fix null pointer exception on login
+0402. 🎨 style: reformat files with black
