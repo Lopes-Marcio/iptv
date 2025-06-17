@@ -3668,3 +3668,4 @@
 0052. 🎨 style: standardize quote style
 0624. ✅ test: add unit test for quiz service
 0958. 🐛 fix: prevent crash on empty input
+0829. 🔧 refactor: organize models into subfolders
