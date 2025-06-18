@@ -1678,3 +1678,4 @@
 0852. ✨ feat: enable dark mode toggle
 0659. 📚 docs: add API usage examples
 0486. ✨ feat: add export to CSV option
+0159. 🚀 perf: lazy-load components
