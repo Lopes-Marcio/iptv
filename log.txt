@@ -657,3 +657,4 @@
 0118. 🚀 perf: reduce image load time
 0787. ♻️ chore: rename env.example
 0752. ✅ test: add integration test for /submit endpoint
+0588. 🔧 refactor: organize models into subfolders
