@@ -656,3 +656,4 @@
 0402. 🎨 style: reformat files with black
 0118. 🚀 perf: reduce image load time
 0787. ♻️ chore: rename env.example
+0752. ✅ test: add integration test for /submit endpoint
