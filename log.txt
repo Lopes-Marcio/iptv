@@ -3674,3 +3674,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0611. ✅ test: test user registration edge cases
 0922. 📚 docs: write FAQ section
+0420. 🚀 perf: reduce image load time
