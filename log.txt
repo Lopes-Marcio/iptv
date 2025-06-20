@@ -660,3 +660,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0442. 🎨 style: standardize quote style
 0423. ✅ test: mock database connection in test suite
+0207. 🐛 fix: prevent crash on empty input
