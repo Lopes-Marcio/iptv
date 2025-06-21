@@ -1684,3 +1684,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0366. 🔧 refactor: remove redundant code blocks
 0599. ✅ test: test user registration edge cases
+0893. 🐛 fix: handle 500 error in quiz API
