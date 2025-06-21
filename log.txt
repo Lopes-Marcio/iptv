@@ -3676,3 +3676,4 @@
 0922. 📚 docs: write FAQ section
 0420. 🚀 perf: reduce image load time
 0176. 🔧 refactor: remove redundant code blocks
+0300. ✨ feat: add export to CSV option
