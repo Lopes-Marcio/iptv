@@ -1683,3 +1683,4 @@
 0670. ✨ feat: add export to CSV option
 0396. 🔧 refactor: split large controller into smaller functions
 0366. 🔧 refactor: remove redundant code blocks
+0599. ✅ test: test user registration edge cases
