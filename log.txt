@@ -665,3 +665,4 @@
 0518. ✨ feat: support email verification
 0987. ✨ feat: create admin dashboard
 0611. ✅ test: test user registration edge cases
+0706. ✨ feat: support email verification
