@@ -667,3 +667,4 @@
 0611. ✅ test: test user registration edge cases
 0706. ✨ feat: support email verification
 0927. ♻️ chore: bump dependencies
+0535. 📚 docs: write FAQ section
