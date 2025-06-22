@@ -1688,3 +1688,4 @@
 0203. 🚀 perf: lazy-load components
 0615. 🐛 fix: correct typo in registration form
 0102. ✨ feat: support email verification
+0162. ♻️ chore: add GitHub actions badge
