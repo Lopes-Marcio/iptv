@@ -1690,3 +1690,4 @@
 0102. ✨ feat: support email verification
 0162. ♻️ chore: add GitHub actions badge
 0006. 🐛 fix: prevent crash on empty input
+0453. 🎨 style: standardize quote style
