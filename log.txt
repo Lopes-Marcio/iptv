@@ -3679,3 +3679,4 @@
 0300. ✨ feat: add export to CSV option
 0334. 🚀 perf: cache repeated calculations
 0464. 🎨 style: remove trailing whitespace
+0976. ✨ feat: implement quiz timer feature
