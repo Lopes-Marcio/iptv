@@ -2707,3 +2707,4 @@
 0133. 🐛 fix: fix null pointer exception on login
 0287. 📚 docs: write FAQ section
 0108. 🎨 style: remove trailing whitespace
+0648. ♻️ chore: bump dependencies
