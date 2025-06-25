@@ -2710,3 +2710,4 @@
 0648. ♻️ chore: bump dependencies
 0229. 🚀 perf: optimize database query for quiz results
 0079. 🐛 fix: correct typo in registration form
+0722. 📚 docs: add API usage examples
