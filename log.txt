@@ -3681,3 +3681,4 @@
 0464. 🎨 style: remove trailing whitespace
 0976. ✨ feat: implement quiz timer feature
 0735. ♻️ chore: add GitHub actions badge
+0981. 🚀 perf: lazy-load components
