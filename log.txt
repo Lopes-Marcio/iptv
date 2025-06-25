@@ -677,3 +677,4 @@
 0976. ✨ feat: implement quiz timer feature
 0220. 🐛 fix: fix null pointer exception on login
 0371. ✅ test: add integration test for /submit endpoint
+0750. 🎨 style: apply consistent indentation
