@@ -2712,3 +2712,4 @@
 0079. 🐛 fix: correct typo in registration form
 0722. 📚 docs: add API usage examples
 0754. 🐛 fix: handle 500 error in quiz API
+0968. 🎨 style: standardize quote style
