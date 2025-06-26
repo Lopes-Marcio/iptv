@@ -1699,3 +1699,4 @@
 0406. ✨ feat: add export to CSV option
 0018. 🔧 refactor: organize models into subfolders
 0674. 🔧 refactor: split large controller into smaller functions
+0836. 🚀 perf: optimize database query for quiz results
