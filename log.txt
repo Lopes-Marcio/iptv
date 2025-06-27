@@ -1701,3 +1701,4 @@
 0674. 🔧 refactor: split large controller into smaller functions
 0836. 🚀 perf: optimize database query for quiz results
 0143. ✨ feat: implement quiz timer feature
+0821. ✅ test: add integration test for /submit endpoint
