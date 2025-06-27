@@ -2715,3 +2715,4 @@
 0968. 🎨 style: standardize quote style
 0876. ♻️ chore: rename env.example
 0630. 🚀 perf: lazy-load components
+0901. ✨ feat: add user authentication
