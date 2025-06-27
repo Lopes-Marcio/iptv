@@ -3689,3 +3689,4 @@
 0423. ✅ test: mock database connection in test suite
 0595. ✨ feat: enable dark mode toggle
 0429. ✨ feat: add user authentication
+0996. ✅ test: test user registration edge cases
