@@ -2716,3 +2716,4 @@
 0876. ♻️ chore: rename env.example
 0630. 🚀 perf: lazy-load components
 0901. ✨ feat: add user authentication
+0865. ♻️ chore: add GitHub actions badge
