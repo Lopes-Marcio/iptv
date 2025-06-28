@@ -3696,3 +3696,4 @@
 0024. 📚 docs: write FAQ section
 0852. ✨ feat: enable dark mode toggle
 0568. 🐛 fix: handle 500 error in quiz API
+0314. ✨ feat: implement quiz timer feature
