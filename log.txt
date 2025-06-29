@@ -2718,3 +2718,4 @@
 0901. ✨ feat: add user authentication
 0865. ♻️ chore: add GitHub actions badge
 0010. ✨ feat: add user authentication
+0596. ♻️ chore: update .gitignore
