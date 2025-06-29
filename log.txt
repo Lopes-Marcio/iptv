@@ -1704,3 +1704,4 @@
 0821. ✅ test: add integration test for /submit endpoint
 0424. ✨ feat: add user authentication
 0543. ✨ feat: support email verification
+0042. 📚 docs: document token refresh logic
