@@ -1703,3 +1703,4 @@
 0143. ✨ feat: implement quiz timer feature
 0821. ✅ test: add integration test for /submit endpoint
 0424. ✨ feat: add user authentication
+0543. ✨ feat: support email verification
