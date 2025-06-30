@@ -1708,3 +1708,4 @@
 0633. ✨ feat: add user authentication
 0833. ✨ feat: add user authentication
 0317. ✅ test: test user registration edge cases
+0271. ✅ test: add unit test for quiz service
