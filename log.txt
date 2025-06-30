@@ -695,3 +695,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0093. ✅ test: add unit test for quiz service
 0714. 📚 docs: improve code comments in utils
+0131. 📚 docs: write FAQ section
