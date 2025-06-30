@@ -1709,3 +1709,4 @@
 0833. ✨ feat: add user authentication
 0317. ✅ test: test user registration edge cases
 0271. ✅ test: add unit test for quiz service
+0089. 🔧 refactor: remove redundant code blocks
