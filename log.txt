@@ -3699,3 +3699,4 @@
 0314. ✨ feat: implement quiz timer feature
 0601. ✨ feat: implement quiz timer feature
 0064. 📚 docs: clarify environment setup
+0860. 🔧 refactor: organize models into subfolders
