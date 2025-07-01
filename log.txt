@@ -697,3 +697,4 @@
 0714. 📚 docs: improve code comments in utils
 0131. 📚 docs: write FAQ section
 0164. 📚 docs: document token refresh logic
+0176. 🔧 refactor: remove redundant code blocks
