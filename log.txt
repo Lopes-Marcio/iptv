@@ -698,3 +698,4 @@
 0131. 📚 docs: write FAQ section
 0164. 📚 docs: document token refresh logic
 0176. 🔧 refactor: remove redundant code blocks
+0954. 🚀 perf: cache repeated calculations
