@@ -2725,3 +2725,4 @@
 0215. 🎨 style: reformat files with black
 0385. ♻️ chore: clean up unused files
 0382. 📚 docs: improve code comments in utils
+0732. ♻️ chore: add GitHub actions badge
