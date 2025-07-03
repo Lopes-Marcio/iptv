@@ -2729,3 +2729,4 @@
 0658. 🎨 style: rename variables for clarity
 0869. ♻️ chore: bump dependencies
 0337. 📚 docs: document token refresh logic
+0377. ✨ feat: add user authentication
