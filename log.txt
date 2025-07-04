@@ -1722,3 +1722,4 @@
 0669. ✨ feat: enable dark mode toggle
 0678. ✨ feat: add user authentication
 0350. 🚀 perf: cache repeated calculations
+0151. ✅ test: add unit test for quiz service
