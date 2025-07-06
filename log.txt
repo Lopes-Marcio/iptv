@@ -1731,3 +1731,4 @@
 0138. 🎨 style: rename variables for clarity
 0653. 🐛 fix: prevent crash on empty input
 0549. ✨ feat: enable dark mode toggle
+0096. 🐛 fix: prevent crash on empty input
