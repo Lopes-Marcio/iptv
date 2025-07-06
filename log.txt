@@ -3711,3 +3711,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0726. ✨ feat: enable dark mode toggle
 0748. 🚀 perf: optimize database query for quiz results
+0498. ✅ test: mock database connection in test suite
