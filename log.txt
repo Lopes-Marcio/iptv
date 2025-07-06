@@ -707,3 +707,4 @@
 0577. ✨ feat: implement quiz timer feature
 0259. 🚀 perf: lazy-load components
 0550. 🔧 refactor: split large controller into smaller functions
+0905. ♻️ chore: bump dependencies
