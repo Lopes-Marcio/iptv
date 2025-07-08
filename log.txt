@@ -3718,3 +3718,4 @@
 0787. ♻️ chore: rename env.example
 0880. 🐛 fix: fix broken CSS in mobile view
 0156. 🎨 style: rename variables for clarity
+0154. 🐛 fix: prevent crash on empty input
