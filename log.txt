@@ -1734,3 +1734,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0431. 🎨 style: reformat files with black
 0225. 🚀 perf: reduce image load time
+0699. 🎨 style: standardize quote style
