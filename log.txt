@@ -713,3 +713,4 @@
 0177. 📚 docs: add API usage examples
 0926. 🔧 refactor: organize models into subfolders
 0250. 📚 docs: update README with setup steps
+0565. ♻️ chore: add GitHub actions badge
