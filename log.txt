@@ -1736,3 +1736,4 @@
 0225. 🚀 perf: reduce image load time
 0699. 🎨 style: standardize quote style
 0313. 🎨 style: apply consistent indentation
+0756. ✨ feat: support email verification
