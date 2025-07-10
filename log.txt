@@ -2743,3 +2743,4 @@
 0249. ✅ test: increase coverage on auth module
 0726. ✨ feat: enable dark mode toggle
 0225. 🚀 perf: reduce image load time
+0962. ✨ feat: create admin dashboard
