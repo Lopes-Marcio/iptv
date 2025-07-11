@@ -1742,3 +1742,4 @@
 0460. 📚 docs: write FAQ section
 0840. 🔧 refactor: refactor quiz grading logic
 0772. 🐛 fix: fix null pointer exception on login
+0683. ✅ test: mock database connection in test suite
