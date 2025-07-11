@@ -1739,3 +1739,4 @@
 0756. ✨ feat: support email verification
 0532. 🔧 refactor: split large controller into smaller functions
 0253. 📚 docs: update README with setup steps
+0460. 📚 docs: write FAQ section
