@@ -2747,3 +2747,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0196. ♻️ chore: bump dependencies
 0284. ✨ feat: implement quiz timer feature
+0535. 📚 docs: write FAQ section
