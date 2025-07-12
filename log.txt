@@ -2750,3 +2750,4 @@
 0535. 📚 docs: write FAQ section
 0471. ✨ feat: support email verification
 0749. ✨ feat: support email verification
+0673. 🐛 fix: correct typo in registration form
