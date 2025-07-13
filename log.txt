@@ -2752,3 +2752,4 @@
 0749. ✨ feat: support email verification
 0673. 🐛 fix: correct typo in registration form
 0568. 🐛 fix: handle 500 error in quiz API
+0806. 📚 docs: improve code comments in utils
