@@ -3731,3 +3731,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0539. 🔧 refactor: organize models into subfolders
 0972. 🔧 refactor: refactor quiz grading logic
+0040. 🔧 refactor: clean up auth middleware
