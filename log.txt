@@ -728,3 +728,4 @@
 0795. 📚 docs: update README with setup steps
 0597. 🚀 perf: cache repeated calculations
 0599. ✅ test: test user registration edge cases
+0893. 🐛 fix: handle 500 error in quiz API
