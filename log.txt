@@ -3737,3 +3737,4 @@
 0194. 🎨 style: standardize quote style
 0250. 📚 docs: update README with setup steps
 0721. 🚀 perf: optimize database query for quiz results
+0222. 🐛 fix: handle 500 error in quiz API
