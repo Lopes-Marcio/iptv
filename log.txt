@@ -733,3 +733,4 @@
 0830. 🎨 style: apply consistent indentation
 0228. 🔧 refactor: remove redundant code blocks
 0683. ✅ test: mock database connection in test suite
+0711. 🐛 fix: fix broken CSS in mobile view
