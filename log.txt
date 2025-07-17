@@ -2766,3 +2766,4 @@
 0424. ✨ feat: add user authentication
 0369. 🎨 style: standardize quote style
 0476. 🚀 perf: reduce image load time
+0549. ✨ feat: enable dark mode toggle
