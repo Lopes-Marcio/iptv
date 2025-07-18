@@ -736,3 +736,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0043. ✅ test: add integration test for /submit endpoint
 0098. 🎨 style: rename variables for clarity
+0600. 🐛 fix: prevent crash on empty input
