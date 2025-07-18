@@ -3740,3 +3740,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0669. ✨ feat: enable dark mode toggle
 0077. ♻️ chore: rename env.example
+0413. ✅ test: add integration test for /submit endpoint
