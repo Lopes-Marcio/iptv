@@ -3749,3 +3749,4 @@
 0427. ✅ test: mock database connection in test suite
 0297. 🎨 style: remove trailing whitespace
 0408. ♻️ chore: add GitHub actions badge
+0775. 🐛 fix: fix null pointer exception on login
