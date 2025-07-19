@@ -1769,3 +1769,4 @@
 0747. 🔧 refactor: clean up auth middleware
 0199. ✨ feat: create admin dashboard
 0051. ✨ feat: enable dark mode toggle
+0579. 📚 docs: clarify environment setup
