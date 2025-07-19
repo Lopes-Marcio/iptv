@@ -741,3 +741,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0111. 📚 docs: update README with setup steps
 0121. ✨ feat: support email verification
+0648. ♻️ chore: bump dependencies
