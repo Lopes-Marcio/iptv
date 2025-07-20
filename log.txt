@@ -1772,3 +1772,4 @@
 0579. 📚 docs: clarify environment setup
 0573. ✅ test: add integration test for /submit endpoint
 0574. ✨ feat: enable dark mode toggle
+0983. 🔧 refactor: split large controller into smaller functions
