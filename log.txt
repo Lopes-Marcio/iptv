@@ -743,3 +743,4 @@
 0121. ✨ feat: support email verification
 0648. ♻️ chore: bump dependencies
 0564. 📚 docs: clarify environment setup
+0875. ✅ test: increase coverage on auth module
