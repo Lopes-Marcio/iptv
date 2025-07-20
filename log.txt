@@ -745,3 +745,4 @@
 0564. 📚 docs: clarify environment setup
 0875. ✅ test: increase coverage on auth module
 0094. 📚 docs: document token refresh logic
+0813. 🔧 refactor: organize models into subfolders
