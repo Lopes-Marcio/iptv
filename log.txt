@@ -2775,3 +2775,4 @@
 0765. ♻️ chore: clean up unused files
 0569. 📚 docs: document token refresh logic
 0437. 📚 docs: clarify environment setup
+0934. ✨ feat: support email verification
