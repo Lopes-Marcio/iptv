@@ -749,3 +749,4 @@
 0885. ♻️ chore: update .gitignore
 0840. 🔧 refactor: refactor quiz grading logic
 0759. 🔧 refactor: organize models into subfolders
+0590. 🐛 fix: fix null pointer exception on login
