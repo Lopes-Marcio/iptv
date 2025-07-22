@@ -2776,3 +2776,4 @@
 0569. 📚 docs: document token refresh logic
 0437. 📚 docs: clarify environment setup
 0934. ✨ feat: support email verification
+0378. 🐛 fix: prevent crash on empty input
