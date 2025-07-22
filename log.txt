@@ -2778,3 +2778,4 @@
 0934. ✨ feat: support email verification
 0378. 🐛 fix: prevent crash on empty input
 0758. 🚀 perf: optimize database query for quiz results
+0713. 🐛 fix: handle 500 error in quiz API
