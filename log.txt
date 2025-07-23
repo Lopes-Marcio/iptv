@@ -756,3 +756,4 @@
 0525. ✅ test: mock database connection in test suite
 0151. ✅ test: add unit test for quiz service
 0764. ✨ feat: add user authentication
+0896. 🚀 perf: reduce image load time
