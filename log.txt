@@ -1777,3 +1777,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0885. ♻️ chore: update .gitignore
 0631. ✨ feat: create admin dashboard
+0110. 🐛 fix: prevent crash on empty input
