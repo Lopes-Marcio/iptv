@@ -2782,3 +2782,4 @@
 0386. 🚀 perf: optimize database query for quiz results
 0084. 🐛 fix: handle 500 error in quiz API
 0810. 🔧 refactor: refactor quiz grading logic
+0711. 🐛 fix: fix broken CSS in mobile view
