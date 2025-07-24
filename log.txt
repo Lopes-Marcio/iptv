@@ -3756,3 +3756,4 @@
 0866. 📚 docs: add API usage examples
 0360. ✨ feat: add export to CSV option
 0904. ✨ feat: implement quiz timer feature
+0562. 🔧 refactor: clean up auth middleware
