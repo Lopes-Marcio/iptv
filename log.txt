@@ -1781,3 +1781,4 @@
 0875. ✅ test: increase coverage on auth module
 0234. ♻️ chore: rename env.example
 0073. 🔧 refactor: split large controller into smaller functions
+0757. 🔧 refactor: remove redundant code blocks
