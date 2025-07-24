@@ -1779,3 +1779,4 @@
 0631. ✨ feat: create admin dashboard
 0110. 🐛 fix: prevent crash on empty input
 0875. ✅ test: increase coverage on auth module
+0234. ♻️ chore: rename env.example
