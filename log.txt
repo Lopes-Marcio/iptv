@@ -3757,3 +3757,4 @@
 0360. ✨ feat: add export to CSV option
 0904. ✨ feat: implement quiz timer feature
 0562. 🔧 refactor: clean up auth middleware
+0282. 🔧 refactor: remove redundant code blocks
