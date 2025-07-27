@@ -766,3 +766,4 @@
 0221. ✨ feat: add user authentication
 0619. ✨ feat: create admin dashboard
 0401. 🚀 perf: reduce image load time
+0283. ♻️ chore: add GitHub actions badge
