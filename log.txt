@@ -1793,3 +1793,4 @@
 0938. 🎨 style: rename variables for clarity
 0974. ✨ feat: add export to CSV option
 0618. ✨ feat: support email verification
+0795. 📚 docs: update README with setup steps
