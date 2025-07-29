@@ -773,3 +773,4 @@
 0027. 📚 docs: clarify environment setup
 0193. 🚀 perf: optimize database query for quiz results
 0410. 🎨 style: reformat files with black
+0201. 🔧 refactor: clean up auth middleware
