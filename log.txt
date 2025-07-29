@@ -3764,3 +3764,4 @@
 0448. 🐛 fix: correct typo in registration form
 0388. 🎨 style: reformat files with black
 0474. ✅ test: add unit test for quiz service
+0483. 📚 docs: update README with setup steps
