@@ -3767,3 +3767,4 @@
 0483. 📚 docs: update README with setup steps
 0971. 🎨 style: standardize quote style
 0187. ✨ feat: support email verification
+0208. 🔧 refactor: clean up auth middleware
