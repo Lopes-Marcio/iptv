@@ -3766,3 +3766,4 @@
 0474. ✅ test: add unit test for quiz service
 0483. 📚 docs: update README with setup steps
 0971. 🎨 style: standardize quote style
+0187. ✨ feat: support email verification
