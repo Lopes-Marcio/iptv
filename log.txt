@@ -2799,3 +2799,4 @@
 0071. 🔧 refactor: refactor quiz grading logic
 0880. 🐛 fix: fix broken CSS in mobile view
 0637. 🎨 style: apply consistent indentation
+0676. 🐛 fix: prevent crash on empty input
