@@ -3769,3 +3769,4 @@
 0187. ✨ feat: support email verification
 0208. 🔧 refactor: clean up auth middleware
 0839. 🎨 style: apply consistent indentation
+0080. ✨ feat: support email verification
