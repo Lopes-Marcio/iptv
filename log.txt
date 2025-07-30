@@ -2798,3 +2798,4 @@
 0352. ✨ feat: add export to CSV option
 0071. 🔧 refactor: refactor quiz grading logic
 0880. 🐛 fix: fix broken CSS in mobile view
+0637. 🎨 style: apply consistent indentation
