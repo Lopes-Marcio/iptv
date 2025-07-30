@@ -777,3 +777,4 @@
 0523. ♻️ chore: bump dependencies
 0962. ✨ feat: create admin dashboard
 0541. 🐛 fix: correct typo in registration form
+0621. 🔧 refactor: clean up auth middleware
