@@ -3772,3 +3772,4 @@
 0080. ✨ feat: support email verification
 0612. ✅ test: test user registration edge cases
 0090. ✅ test: increase coverage on auth module
+0217. 🚀 perf: reduce image load time
