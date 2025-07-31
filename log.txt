@@ -1802,3 +1802,4 @@
 0360. ✨ feat: add export to CSV option
 0654. ✨ feat: create admin dashboard
 0539. 🔧 refactor: organize models into subfolders
+0365. 🚀 perf: reduce image load time
