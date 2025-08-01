@@ -1805,3 +1805,4 @@
 0365. 🚀 perf: reduce image load time
 0538. 🐛 fix: fix broken CSS in mobile view
 0988. 🐛 fix: fix broken CSS in mobile view
+0402. 🎨 style: reformat files with black
