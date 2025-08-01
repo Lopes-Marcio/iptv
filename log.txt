@@ -1803,3 +1803,4 @@
 0654. ✨ feat: create admin dashboard
 0539. 🔧 refactor: organize models into subfolders
 0365. 🚀 perf: reduce image load time
+0538. 🐛 fix: fix broken CSS in mobile view
