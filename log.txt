@@ -1808,3 +1808,4 @@
 0402. 🎨 style: reformat files with black
 0752. ✅ test: add integration test for /submit endpoint
 0060. ♻️ chore: clean up unused files
+0775. 🐛 fix: fix null pointer exception on login
