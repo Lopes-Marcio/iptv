@@ -2805,3 +2805,4 @@
 0787. ♻️ chore: rename env.example
 0341. 🚀 perf: lazy-load components
 0930. 🎨 style: apply consistent indentation
+0022. 📚 docs: document token refresh logic
