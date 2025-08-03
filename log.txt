@@ -2808,3 +2808,4 @@
 0022. 📚 docs: document token refresh logic
 0025. 🚀 perf: optimize database query for quiz results
 0659. 📚 docs: add API usage examples
+0666. 🐛 fix: fix broken CSS in mobile view
