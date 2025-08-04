@@ -3779,3 +3779,4 @@
 0714. 📚 docs: improve code comments in utils
 0717. 🔧 refactor: refactor quiz grading logic
 0945. ♻️ chore: add GitHub actions badge
+0229. 🚀 perf: optimize database query for quiz results
