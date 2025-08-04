@@ -2812,3 +2812,4 @@
 0979. 🎨 style: standardize quote style
 0295. 🎨 style: remove trailing whitespace
 0598. 🔧 refactor: remove redundant code blocks
+0970. ♻️ chore: update .gitignore
