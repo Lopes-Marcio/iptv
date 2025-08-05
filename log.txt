@@ -799,3 +799,4 @@
 0203. 🚀 perf: lazy-load components
 0022. 📚 docs: document token refresh logic
 0024. 📚 docs: write FAQ section
+0533. ♻️ chore: add GitHub actions badge
