@@ -2813,3 +2813,4 @@
 0295. 🎨 style: remove trailing whitespace
 0598. 🔧 refactor: remove redundant code blocks
 0970. ♻️ chore: update .gitignore
+0852. ✨ feat: enable dark mode toggle
