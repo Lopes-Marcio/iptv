@@ -800,3 +800,4 @@
 0022. 📚 docs: document token refresh logic
 0024. 📚 docs: write FAQ section
 0533. ♻️ chore: add GitHub actions badge
+0900. 🐛 fix: handle 500 error in quiz API
