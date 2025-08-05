@@ -2814,3 +2814,4 @@
 0598. 🔧 refactor: remove redundant code blocks
 0970. ♻️ chore: update .gitignore
 0852. ✨ feat: enable dark mode toggle
+0682. ♻️ chore: rename env.example
