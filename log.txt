@@ -2815,3 +2815,4 @@
 0970. ♻️ chore: update .gitignore
 0852. ✨ feat: enable dark mode toggle
 0682. ♻️ chore: rename env.example
+0428. 🐛 fix: fix null pointer exception on login
