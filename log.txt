@@ -3785,3 +3785,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0817. 🔧 refactor: remove redundant code blocks
 0977. 🔧 refactor: organize models into subfolders
+0781. 🚀 perf: reduce image load time
