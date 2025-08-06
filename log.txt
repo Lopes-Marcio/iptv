@@ -3786,3 +3786,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0977. 🔧 refactor: organize models into subfolders
 0781. 🚀 perf: reduce image load time
+0979. 🎨 style: standardize quote style
