@@ -2817,3 +2817,4 @@
 0682. ♻️ chore: rename env.example
 0428. 🐛 fix: fix null pointer exception on login
 0834. ✅ test: increase coverage on auth module
+0501. ✨ feat: add export to CSV option
