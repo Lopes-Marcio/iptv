@@ -2823,3 +2823,4 @@
 0731. 🎨 style: standardize quote style
 0412. ✅ test: increase coverage on auth module
 0684. 🚀 perf: reduce image load time
+0993. ✨ feat: implement quiz timer feature
