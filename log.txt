@@ -3793,3 +3793,4 @@
 0764. ✨ feat: add user authentication
 0456. 🚀 perf: optimize database query for quiz results
 0496. ✅ test: add integration test for /submit endpoint
+0613. 🐛 fix: prevent crash on empty input
