@@ -3797,3 +3797,4 @@
 0582. ✨ feat: add export to CSV option
 0603. 🐛 fix: fix broken CSS in mobile view
 0042. 📚 docs: document token refresh logic
+0493. ✨ feat: add user authentication
