@@ -816,3 +816,4 @@
 0059. ♻️ chore: bump dependencies
 0537. 🔧 refactor: remove redundant code blocks
 0079. 🐛 fix: correct typo in registration form
+0457. 🐛 fix: handle 500 error in quiz API
