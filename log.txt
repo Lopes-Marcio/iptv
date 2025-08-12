@@ -1838,3 +1838,4 @@
 0594. 🎨 style: reformat files with black
 0284. ✨ feat: implement quiz timer feature
 0354. 📚 docs: add API usage examples
+0961. 📚 docs: add API usage examples
