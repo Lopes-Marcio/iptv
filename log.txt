@@ -2832,3 +2832,4 @@
 0245. 🐛 fix: resolve issue with date parsing
 0690. 🚀 perf: lazy-load components
 0688. 🚀 perf: reduce image load time
+0844. 📚 docs: update README with setup steps
