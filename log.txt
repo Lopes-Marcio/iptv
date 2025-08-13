@@ -818,3 +818,4 @@
 0079. 🐛 fix: correct typo in registration form
 0457. 🐛 fix: handle 500 error in quiz API
 0350. 🚀 perf: cache repeated calculations
+0088. 📚 docs: add API usage examples
