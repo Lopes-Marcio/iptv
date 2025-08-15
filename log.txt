@@ -3809,3 +3809,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0625. 🐛 fix: handle 500 error in quiz API
 0548. 📚 docs: write FAQ section
+0417. 🎨 style: rename variables for clarity
