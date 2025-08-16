@@ -3813,3 +3813,4 @@
 0071. 🔧 refactor: refactor quiz grading logic
 0830. 🎨 style: apply consistent indentation
 0793. 📚 docs: clarify environment setup
+0715. ✨ feat: create admin dashboard
