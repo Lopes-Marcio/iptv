@@ -3814,3 +3814,4 @@
 0830. 🎨 style: apply consistent indentation
 0793. 📚 docs: clarify environment setup
 0715. ✨ feat: create admin dashboard
+0540. ♻️ chore: add GitHub actions badge
