@@ -1846,3 +1846,4 @@
 0062. ♻️ chore: update .gitignore
 0407. 🚀 perf: cache repeated calculations
 0638. 📚 docs: improve code comments in utils
+0706. ✨ feat: support email verification
