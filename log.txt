@@ -2846,3 +2846,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0128. ♻️ chore: rename env.example
 0406. ✨ feat: add export to CSV option
+0665. ♻️ chore: update .gitignore
