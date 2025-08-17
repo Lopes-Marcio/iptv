@@ -1849,3 +1849,4 @@
 0706. ✨ feat: support email verification
 0050. ✨ feat: enable dark mode toggle
 0558. ✨ feat: enable dark mode toggle
+0647. 🐛 fix: prevent crash on empty input
