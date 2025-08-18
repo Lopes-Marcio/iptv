@@ -3820,3 +3820,4 @@
 0902. ✨ feat: enable dark mode toggle
 0086. 🐛 fix: correct typo in registration form
 0932. ✅ test: add integration test for /submit endpoint
+0731. 🎨 style: standardize quote style
