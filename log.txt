@@ -3825,3 +3825,4 @@
 0580. ♻️ chore: bump dependencies
 0111. 📚 docs: update README with setup steps
 0576. ♻️ chore: update .gitignore
+0353. ♻️ chore: rename env.example
