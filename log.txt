@@ -2851,3 +2851,4 @@
 0879. 🎨 style: standardize quote style
 0652. 🔧 refactor: organize models into subfolders
 0518. ✨ feat: support email verification
+0552. 🐛 fix: fix null pointer exception on login
