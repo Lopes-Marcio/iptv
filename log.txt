@@ -843,3 +843,4 @@
 0013. ✅ test: increase coverage on auth module
 0113. ✨ feat: add user authentication
 0949. 📚 docs: write FAQ section
+0464. 🎨 style: remove trailing whitespace
