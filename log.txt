@@ -3826,3 +3826,4 @@
 0111. 📚 docs: update README with setup steps
 0576. ♻️ chore: update .gitignore
 0353. ♻️ chore: rename env.example
+0832. 🔧 refactor: remove redundant code blocks
