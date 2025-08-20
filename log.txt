@@ -2857,3 +2857,4 @@
 0087. ✨ feat: add export to CSV option
 0695. ✨ feat: create admin dashboard
 0579. 📚 docs: clarify environment setup
+0740. 🐛 fix: resolve issue with date parsing
