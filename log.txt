@@ -839,3 +839,4 @@
 0145. 📚 docs: improve code comments in utils
 0443. 🎨 style: standardize quote style
 0227. ✅ test: test user registration edge cases
+0479. 🐛 fix: fix null pointer exception on login
