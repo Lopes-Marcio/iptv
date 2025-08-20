@@ -3827,3 +3827,4 @@
 0576. ♻️ chore: update .gitignore
 0353. ♻️ chore: rename env.example
 0832. 🔧 refactor: remove redundant code blocks
+0672. 🐛 fix: fix broken CSS in mobile view
