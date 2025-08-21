@@ -3830,3 +3830,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0378. 🐛 fix: prevent crash on empty input
 0734. ✨ feat: add export to CSV option
+0079. 🐛 fix: correct typo in registration form
