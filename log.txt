@@ -844,3 +844,4 @@
 0113. ✨ feat: add user authentication
 0949. 📚 docs: write FAQ section
 0464. 🎨 style: remove trailing whitespace
+0602. 🔧 refactor: remove redundant code blocks
