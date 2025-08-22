@@ -3835,3 +3835,4 @@
 0649. 📚 docs: update README with setup steps
 0724. ✅ test: mock database connection in test suite
 0607. 🐛 fix: prevent crash on empty input
+0511. 🐛 fix: fix broken CSS in mobile view
