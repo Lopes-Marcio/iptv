@@ -2869,3 +2869,4 @@
 0794. ♻️ chore: clean up unused files
 0949. 📚 docs: write FAQ section
 0254. 🚀 perf: reduce image load time
+0628. ♻️ chore: add GitHub actions badge
