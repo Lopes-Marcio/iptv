@@ -3840,3 +3840,4 @@
 0161. ✨ feat: create admin dashboard
 0982. 🚀 perf: lazy-load components
 0560. 🎨 style: rename variables for clarity
+0769. ✨ feat: create admin dashboard
