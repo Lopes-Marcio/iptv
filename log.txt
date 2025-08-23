@@ -2867,3 +2867,4 @@
 0060. ♻️ chore: clean up unused files
 0077. ♻️ chore: rename env.example
 0794. ♻️ chore: clean up unused files
+0949. 📚 docs: write FAQ section
