@@ -2865,3 +2865,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0030. 🐛 fix: fix null pointer exception on login
 0060. ♻️ chore: clean up unused files
+0077. ♻️ chore: rename env.example
