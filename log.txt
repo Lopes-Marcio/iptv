@@ -3838,3 +3838,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0553. 🐛 fix: correct typo in registration form
 0161. ✨ feat: create admin dashboard
+0982. 🚀 perf: lazy-load components
