@@ -164,3 +164,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0165. 🎨 style: remove trailing whitespace
 0902. ✨ feat: enable dark mode toggle
+0822. 🔧 refactor: remove redundant code blocks
