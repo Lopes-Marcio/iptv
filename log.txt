@@ -850,3 +850,4 @@
 0956. 📚 docs: clarify environment setup
 0820. 📚 docs: add API usage examples
 0286. ✅ test: mock database connection in test suite
+0248. 🐛 fix: handle 500 error in quiz API
