@@ -165,3 +165,4 @@
 0165. 🎨 style: remove trailing whitespace
 0902. ✨ feat: enable dark mode toggle
 0822. 🔧 refactor: remove redundant code blocks
+0939. 📚 docs: update README with setup steps
