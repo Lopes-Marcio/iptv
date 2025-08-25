@@ -3844,3 +3844,4 @@
 0910. 🎨 style: remove trailing whitespace
 0237. 🎨 style: standardize quote style
 0790. 📚 docs: write FAQ section
+0039. ✅ test: add integration test for /submit endpoint
