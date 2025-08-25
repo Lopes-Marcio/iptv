@@ -1868,3 +1868,4 @@
 0739. 🎨 style: remove trailing whitespace
 0704. 🚀 perf: cache repeated calculations
 0925. ✨ feat: add export to CSV option
+0936. 🔧 refactor: organize models into subfolders
