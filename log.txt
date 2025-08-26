@@ -2877,3 +2877,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0478. 🐛 fix: resolve issue with date parsing
 0646. ✅ test: test user registration edge cases
+0891. ✨ feat: create admin dashboard
