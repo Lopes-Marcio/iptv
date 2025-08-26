@@ -166,3 +166,4 @@
 0902. ✨ feat: enable dark mode toggle
 0822. 🔧 refactor: remove redundant code blocks
 0939. 📚 docs: update README with setup steps
+0309. 🔧 refactor: refactor quiz grading logic
