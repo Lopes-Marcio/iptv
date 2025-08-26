@@ -3848,3 +3848,4 @@
 0155. ✨ feat: create admin dashboard
 0528. ♻️ chore: clean up unused files
 0743. 🎨 style: apply consistent indentation
+0509. ♻️ chore: bump dependencies
