@@ -3850,3 +3850,4 @@
 0743. 🎨 style: apply consistent indentation
 0509. ♻️ chore: bump dependencies
 0035. ✅ test: increase coverage on auth module
+0036. 🔧 refactor: clean up auth middleware
