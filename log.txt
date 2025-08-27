@@ -3851,3 +3851,4 @@
 0509. ♻️ chore: bump dependencies
 0035. ✅ test: increase coverage on auth module
 0036. 🔧 refactor: clean up auth middleware
+0125. ✅ test: add integration test for /submit endpoint
