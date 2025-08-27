@@ -1873,3 +1873,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0400. 🐛 fix: fix null pointer exception on login
 0873. 🚀 perf: cache repeated calculations
+0604. 📚 docs: add API usage examples
