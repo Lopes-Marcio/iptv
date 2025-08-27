@@ -3853,3 +3853,4 @@
 0036. 🔧 refactor: clean up auth middleware
 0125. ✅ test: add integration test for /submit endpoint
 0730. ✅ test: test user registration edge cases
+0361. ✨ feat: support email verification
