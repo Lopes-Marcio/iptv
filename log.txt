@@ -3854,3 +3854,4 @@
 0125. ✅ test: add integration test for /submit endpoint
 0730. ✅ test: test user registration edge cases
 0361. ✨ feat: support email verification
+0519. 📚 docs: document token refresh logic
