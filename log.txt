@@ -2879,3 +2879,4 @@
 0646. ✅ test: test user registration edge cases
 0891. ✨ feat: create admin dashboard
 0169. 📚 docs: add API usage examples
+0219. ✅ test: increase coverage on auth module
