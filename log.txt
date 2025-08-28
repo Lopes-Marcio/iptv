@@ -3855,3 +3855,4 @@
 0730. ✅ test: test user registration edge cases
 0361. ✨ feat: support email verification
 0519. 📚 docs: document token refresh logic
+0887. 📚 docs: add API usage examples
