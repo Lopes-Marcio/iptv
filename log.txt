@@ -859,3 +859,4 @@
 0614. 🚀 perf: reduce image load time
 0722. 📚 docs: add API usage examples
 0108. 🎨 style: remove trailing whitespace
+0460. 📚 docs: write FAQ section
