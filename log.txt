@@ -3863,3 +3863,4 @@
 0792. 🎨 style: standardize quote style
 0419. 🎨 style: remove trailing whitespace
 0117. ✅ test: increase coverage on auth module
+0538. 🐛 fix: fix broken CSS in mobile view
