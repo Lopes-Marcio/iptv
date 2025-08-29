@@ -863,3 +863,4 @@
 0668. 🚀 perf: optimize database query for quiz results
 0122. ✨ feat: support email verification
 0147. ♻️ chore: bump dependencies
+0342. 🚀 perf: cache repeated calculations
