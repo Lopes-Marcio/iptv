@@ -3861,3 +3861,4 @@
 0165. 🎨 style: remove trailing whitespace
 0186. ✅ test: test user registration edge cases
 0792. 🎨 style: standardize quote style
+0419. 🎨 style: remove trailing whitespace
