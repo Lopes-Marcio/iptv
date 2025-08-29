@@ -3860,3 +3860,4 @@
 0855. 🎨 style: reformat files with black
 0165. 🎨 style: remove trailing whitespace
 0186. ✅ test: test user registration edge cases
+0792. 🎨 style: standardize quote style
