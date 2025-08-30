@@ -2884,3 +2884,4 @@
 0042. 📚 docs: document token refresh logic
 0752. ✅ test: add integration test for /submit endpoint
 0537. 🔧 refactor: remove redundant code blocks
+0048. 📚 docs: update README with setup steps
