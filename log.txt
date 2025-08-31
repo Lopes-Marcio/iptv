@@ -168,3 +168,4 @@
 0939. 📚 docs: update README with setup steps
 0309. 🔧 refactor: refactor quiz grading logic
 0824. 🚀 perf: lazy-load components
+0970. ♻️ chore: update .gitignore
