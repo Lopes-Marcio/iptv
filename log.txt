@@ -2892,3 +2892,4 @@
 0903. ✅ test: mock database connection in test suite
 0374. 🎨 style: standardize quote style
 0978. 🐛 fix: prevent crash on empty input
+0946. ✅ test: add unit test for quiz service
