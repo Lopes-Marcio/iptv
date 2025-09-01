@@ -2893,3 +2893,4 @@
 0374. 🎨 style: standardize quote style
 0978. 🐛 fix: prevent crash on empty input
 0946. ✅ test: add unit test for quiz service
+0669. ✨ feat: enable dark mode toggle
