@@ -3870,3 +3870,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0993. ✨ feat: implement quiz timer feature
 0874. 🔧 refactor: split large controller into smaller functions
+0084. 🐛 fix: handle 500 error in quiz API
