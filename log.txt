@@ -3873,3 +3873,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0196. ♻️ chore: bump dependencies
 0909. 🔧 refactor: organize models into subfolders
+0171. 🐛 fix: fix broken CSS in mobile view
