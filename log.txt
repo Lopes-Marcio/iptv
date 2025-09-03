@@ -170,3 +170,4 @@
 0824. 🚀 perf: lazy-load components
 0970. ♻️ chore: update .gitignore
 0431. 🎨 style: reformat files with black
+0380. 🐛 fix: fix null pointer exception on login
