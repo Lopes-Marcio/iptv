@@ -2899,3 +2899,4 @@
 0144. ✅ test: increase coverage on auth module
 0117. ✅ test: increase coverage on auth module
 0362. 📚 docs: add API usage examples
+0496. ✅ test: add integration test for /submit endpoint
