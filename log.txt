@@ -2902,3 +2902,4 @@
 0496. ✅ test: add integration test for /submit endpoint
 0012. 🚀 perf: cache repeated calculations
 0971. 🎨 style: standardize quote style
+0895. ✨ feat: support email verification
