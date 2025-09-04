@@ -2903,3 +2903,4 @@
 0012. 🚀 perf: cache repeated calculations
 0971. 🎨 style: standardize quote style
 0895. ✨ feat: support email verification
+0584. 🚀 perf: lazy-load components
