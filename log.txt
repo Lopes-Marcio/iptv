@@ -3879,3 +3879,4 @@
 0532. 🔧 refactor: split large controller into smaller functions
 0411. ✅ test: add unit test for quiz service
 0636. ✅ test: increase coverage on auth module
+0365. 🚀 perf: reduce image load time
