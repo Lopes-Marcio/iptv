@@ -878,3 +878,4 @@
 0197. 📚 docs: update README with setup steps
 0115. 🚀 perf: reduce image load time
 0505. ♻️ chore: add GitHub actions badge
+0298. ♻️ chore: update .gitignore
