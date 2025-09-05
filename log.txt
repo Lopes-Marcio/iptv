@@ -877,3 +877,4 @@
 0803. ✅ test: mock database connection in test suite
 0197. 📚 docs: update README with setup steps
 0115. 🚀 perf: reduce image load time
+0505. ♻️ chore: add GitHub actions badge
