@@ -879,3 +879,4 @@
 0115. 🚀 perf: reduce image load time
 0505. ♻️ chore: add GitHub actions badge
 0298. ♻️ chore: update .gitignore
+0204. 🎨 style: standardize quote style
