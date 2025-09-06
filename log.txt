@@ -1900,3 +1900,4 @@
 0924. ✅ test: mock database connection in test suite
 0373. 📚 docs: document token refresh logic
 0061. ✨ feat: create admin dashboard
+0064. 📚 docs: clarify environment setup
