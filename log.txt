@@ -3887,3 +3887,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0837. 🚀 perf: cache repeated calculations
 0335. ♻️ chore: update .gitignore
+0148. 🔧 refactor: organize models into subfolders
