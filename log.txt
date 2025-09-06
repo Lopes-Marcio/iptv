@@ -884,3 +884,4 @@
 0267. 📚 docs: improve code comments in utils
 0842. 🎨 style: remove trailing whitespace
 0561. 📚 docs: write FAQ section
+0950. 🎨 style: reformat files with black
