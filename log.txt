@@ -1898,3 +1898,4 @@
 0872. 🎨 style: rename variables for clarity
 0681. ✨ feat: create admin dashboard
 0924. ✅ test: mock database connection in test suite
+0373. 📚 docs: document token refresh logic
