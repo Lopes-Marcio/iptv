@@ -886,3 +886,4 @@
 0561. 📚 docs: write FAQ section
 0950. 🎨 style: reformat files with black
 0033. 🎨 style: apply consistent indentation
+0977. 🔧 refactor: organize models into subfolders
