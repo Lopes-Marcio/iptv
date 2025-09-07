@@ -1904,3 +1904,4 @@
 0023. 📚 docs: clarify environment setup
 0710. 🐛 fix: fix broken CSS in mobile view
 0754. 🐛 fix: handle 500 error in quiz API
+0380. 🐛 fix: fix null pointer exception on login
