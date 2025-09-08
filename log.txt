@@ -1913,3 +1913,4 @@
 0566. 📚 docs: write FAQ section
 0660. 🐛 fix: correct typo in registration form
 0496. ✅ test: add integration test for /submit endpoint
+0865. ♻️ chore: add GitHub actions badge
