@@ -894,3 +894,4 @@
 0574. ✨ feat: enable dark mode toggle
 0937. 🐛 fix: handle 500 error in quiz API
 0504. 📚 docs: document token refresh logic
+0012. 🚀 perf: cache repeated calculations
