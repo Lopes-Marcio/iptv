@@ -3897,3 +3897,4 @@
 0307. ✨ feat: support email verification
 0198. 📚 docs: clarify environment setup
 0694. 🎨 style: rename variables for clarity
+0074. ♻️ chore: add GitHub actions badge
