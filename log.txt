@@ -3894,3 +3894,4 @@
 0610. 🚀 perf: lazy-load components
 0676. 🐛 fix: prevent crash on empty input
 0491. 🚀 perf: lazy-load components
+0307. ✨ feat: support email verification
