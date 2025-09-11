@@ -1918,3 +1918,4 @@
 0920. 🔧 refactor: organize models into subfolders
 0636. ✅ test: increase coverage on auth module
 0419. 🎨 style: remove trailing whitespace
+0823. ✨ feat: add user authentication
