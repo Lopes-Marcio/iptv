@@ -1921,3 +1921,4 @@
 0823. ✨ feat: add user authentication
 0731. 🎨 style: standardize quote style
 0687. 🎨 style: remove trailing whitespace
+0200. 🐛 fix: handle 500 error in quiz API
