@@ -2927,3 +2927,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0857. 🎨 style: rename variables for clarity
 0886. ♻️ chore: clean up unused files
+0701. 🔧 refactor: clean up auth middleware
