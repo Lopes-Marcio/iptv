@@ -2929,3 +2929,4 @@
 0886. ♻️ chore: clean up unused files
 0701. 🔧 refactor: clean up auth middleware
 0186. ✅ test: test user registration edge cases
+0358. 🚀 perf: reduce image load time
