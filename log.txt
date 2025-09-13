@@ -2931,3 +2931,4 @@
 0186. ✅ test: test user registration edge cases
 0358. 🚀 perf: reduce image load time
 0948. 🐛 fix: fix broken CSS in mobile view
+0473. 📚 docs: write FAQ section
