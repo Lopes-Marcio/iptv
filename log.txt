@@ -2936,3 +2936,4 @@
 0973. 🔧 refactor: organize models into subfolders
 0894. ✅ test: add integration test for /submit endpoint
 0843. 📚 docs: document token refresh logic
+0612. ✅ test: test user registration edge cases
