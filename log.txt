@@ -2937,3 +2937,4 @@
 0894. ✅ test: add integration test for /submit endpoint
 0843. 📚 docs: document token refresh logic
 0612. ✅ test: test user registration edge cases
+0517. ✅ test: mock database connection in test suite
