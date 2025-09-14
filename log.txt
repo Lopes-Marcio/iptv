@@ -1928,3 +1928,4 @@
 0183. 🔧 refactor: split large controller into smaller functions
 1000. ✅ test: increase coverage on auth module
 0711. 🐛 fix: fix broken CSS in mobile view
+0500. ✅ test: add integration test for /submit endpoint
