@@ -912,3 +912,4 @@
 0037. 🐛 fix: correct typo in registration form
 0980. 🎨 style: reformat files with black
 0892. ✅ test: add unit test for quiz service
+0709. ♻️ chore: bump dependencies
