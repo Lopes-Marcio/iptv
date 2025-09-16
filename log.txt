@@ -911,3 +911,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0037. 🐛 fix: correct typo in registration form
 0980. 🎨 style: reformat files with black
+0892. ✅ test: add unit test for quiz service
