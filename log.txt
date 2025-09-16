@@ -3909,3 +3909,4 @@
 0728. 🔧 refactor: split large controller into smaller functions
 0652. 🔧 refactor: organize models into subfolders
 0788. 📚 docs: add API usage examples
+0219. ✅ test: increase coverage on auth module
