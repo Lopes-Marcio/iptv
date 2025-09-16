@@ -3910,3 +3910,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0788. 📚 docs: add API usage examples
 0219. ✅ test: increase coverage on auth module
+0341. 🚀 perf: lazy-load components
