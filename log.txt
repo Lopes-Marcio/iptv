@@ -3914,3 +3914,4 @@
 0327. 🔧 refactor: split large controller into smaller functions
 0395. 📚 docs: write FAQ section
 0457. 🐛 fix: handle 500 error in quiz API
+0477. 🐛 fix: fix broken CSS in mobile view
