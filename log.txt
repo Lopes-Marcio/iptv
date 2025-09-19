@@ -2947,3 +2947,4 @@
 0105. 🐛 fix: correct typo in registration form
 0502. 📚 docs: update README with setup steps
 0771. 🚀 perf: cache repeated calculations
+0897. 🐛 fix: prevent crash on empty input
