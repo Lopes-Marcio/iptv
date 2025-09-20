@@ -3921,3 +3921,4 @@
 0263. 📚 docs: add API usage examples
 0486. ✨ feat: add export to CSV option
 0356. 📚 docs: write FAQ section
+0760. 🐛 fix: resolve issue with date parsing
