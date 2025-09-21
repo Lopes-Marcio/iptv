@@ -3924,3 +3924,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0162. ♻️ chore: add GitHub actions badge
 0834. ✅ test: increase coverage on auth module
+0952. 🔧 refactor: split large controller into smaller functions
