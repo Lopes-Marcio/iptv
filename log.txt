@@ -3925,3 +3925,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0834. ✅ test: increase coverage on auth module
 0952. 🔧 refactor: split large controller into smaller functions
+0169. 📚 docs: add API usage examples
