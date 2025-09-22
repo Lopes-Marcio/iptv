@@ -1950,3 +1950,4 @@
 0461. ✨ feat: add user authentication
 0764. ✨ feat: add user authentication
 0217. 🚀 perf: reduce image load time
+0902. ✨ feat: enable dark mode toggle
