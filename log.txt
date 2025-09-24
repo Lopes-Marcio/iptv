@@ -175,3 +175,4 @@
 0345. 📚 docs: document token refresh logic
 0698. 🐛 fix: handle 500 error in quiz API
 0795. 📚 docs: update README with setup steps
+0372. ✨ feat: add user authentication
