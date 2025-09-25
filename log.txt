@@ -1962,3 +1962,4 @@
 0091. ✨ feat: add user authentication
 0357. ✅ test: add unit test for quiz service
 0846. ✨ feat: implement quiz timer feature
+0733. 🐛 fix: fix null pointer exception on login
