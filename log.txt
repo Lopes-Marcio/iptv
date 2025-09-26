@@ -939,3 +939,4 @@
 0895. ✨ feat: support email verification
 0845. 🚀 perf: cache repeated calculations
 0889. 🚀 perf: lazy-load components
+0833. ✨ feat: add user authentication
