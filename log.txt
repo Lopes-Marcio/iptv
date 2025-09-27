@@ -2960,3 +2960,4 @@
 0365. 🚀 perf: reduce image load time
 0974. ✨ feat: add export to CSV option
 0329. 📚 docs: update README with setup steps
+0282. 🔧 refactor: remove redundant code blocks
