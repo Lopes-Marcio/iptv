@@ -177,3 +177,4 @@
 0795. 📚 docs: update README with setup steps
 0372. ✨ feat: add user authentication
 0466. 🚀 perf: optimize database query for quiz results
+0793. 📚 docs: clarify environment setup
