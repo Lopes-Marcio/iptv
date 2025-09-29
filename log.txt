@@ -946,3 +946,4 @@
 0239. 🎨 style: standardize quote style
 0961. 📚 docs: add API usage examples
 0672. 🐛 fix: fix broken CSS in mobile view
+0463. 🚀 perf: reduce image load time
