@@ -3952,3 +3952,4 @@
 0969. ✨ feat: create admin dashboard
 0801. ✨ feat: enable dark mode toggle
 0210. 🎨 style: apply consistent indentation
+0963. 🚀 perf: reduce image load time
