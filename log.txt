@@ -1974,3 +1974,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0944. ✨ feat: add user authentication
 0640. ♻️ chore: bump dependencies
+0523. ♻️ chore: bump dependencies
