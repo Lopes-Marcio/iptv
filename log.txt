@@ -1973,3 +1973,4 @@
 0276. ✅ test: add integration test for /submit endpoint
 0609. 🐛 fix: handle 500 error in quiz API
 0944. ✨ feat: add user authentication
+0640. ♻️ chore: bump dependencies
