@@ -956,3 +956,4 @@
 0444. ✅ test: add unit test for quiz service
 0061. ✨ feat: create admin dashboard
 0613. 🐛 fix: prevent crash on empty input
+0102. ✨ feat: support email verification
