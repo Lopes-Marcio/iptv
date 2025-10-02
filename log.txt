@@ -1976,3 +1976,4 @@
 0640. ♻️ chore: bump dependencies
 0523. ♻️ chore: bump dependencies
 0886. ♻️ chore: clean up unused files
+0844. 📚 docs: update README with setup steps
