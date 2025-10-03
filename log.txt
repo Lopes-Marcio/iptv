@@ -2973,3 +2973,4 @@
 0536. ✨ feat: add user authentication
 0863. 🐛 fix: correct typo in registration form
 0776. ✅ test: add integration test for /submit endpoint
+0005. ✅ test: add unit test for quiz service
