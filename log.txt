@@ -1981,3 +1981,4 @@
 0501. ✨ feat: add export to CSV option
 0274. 🔧 refactor: refactor quiz grading logic
 0792. 🎨 style: standardize quote style
+0803. ✅ test: mock database connection in test suite
