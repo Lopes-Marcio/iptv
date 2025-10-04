@@ -3957,3 +3957,4 @@
 0803. ✅ test: mock database connection in test suite
 0248. 🐛 fix: handle 500 error in quiz API
 0505. ♻️ chore: add GitHub actions badge
+0939. 📚 docs: update README with setup steps
