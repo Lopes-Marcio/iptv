@@ -962,3 +962,4 @@
 0660. 🐛 fix: correct typo in registration form
 0673. 🐛 fix: correct typo in registration form
 0300. ✨ feat: add export to CSV option
+0327. 🔧 refactor: split large controller into smaller functions
