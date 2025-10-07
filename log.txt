@@ -1986,3 +1986,4 @@
 0196. ♻️ chore: bump dependencies
 0899. 🚀 perf: cache repeated calculations
 0332. 🎨 style: standardize quote style
+0934. ✨ feat: support email verification
