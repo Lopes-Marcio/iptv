@@ -969,3 +969,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0513. ♻️ chore: bump dependencies
 0647. 🐛 fix: prevent crash on empty input
+0974. ✨ feat: add export to CSV option
