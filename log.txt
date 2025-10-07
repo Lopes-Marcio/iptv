@@ -1987,3 +1987,4 @@
 0899. 🚀 perf: cache repeated calculations
 0332. 🎨 style: standardize quote style
 0934. ✨ feat: support email verification
+0433. 🐛 fix: prevent crash on empty input
