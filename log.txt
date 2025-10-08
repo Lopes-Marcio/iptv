@@ -1995,3 +1995,4 @@
 0555. ✨ feat: create admin dashboard
 0180. ✨ feat: add export to CSV option
 0584. 🚀 perf: lazy-load components
+0439. 🐛 fix: correct typo in registration form
