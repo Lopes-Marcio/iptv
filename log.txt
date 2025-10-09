@@ -974,3 +974,4 @@
 0801. ✨ feat: enable dark mode toggle
 0850. ♻️ chore: rename env.example
 0440. 📚 docs: update README with setup steps
+0053. ✅ test: increase coverage on auth module
