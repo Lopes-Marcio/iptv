@@ -1998,3 +1998,4 @@
 0439. 🐛 fix: correct typo in registration form
 0971. 🎨 style: standardize quote style
 0770. ♻️ chore: rename env.example
+0395. 📚 docs: write FAQ section
