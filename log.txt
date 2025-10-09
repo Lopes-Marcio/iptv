@@ -1999,3 +1999,4 @@
 0971. 🎨 style: standardize quote style
 0770. ♻️ chore: rename env.example
 0395. 📚 docs: write FAQ section
+0656. 🎨 style: apply consistent indentation
