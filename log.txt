@@ -976,3 +976,4 @@
 0440. 📚 docs: update README with setup steps
 0053. ✅ test: increase coverage on auth module
 0436. ✅ test: add integration test for /submit endpoint
+0148. 🔧 refactor: organize models into subfolders
