@@ -2003,3 +2003,4 @@
 0175. 📚 docs: add API usage examples
 0967. ♻️ chore: add GitHub actions badge
 0260. ✨ feat: create admin dashboard
+0837. 🚀 perf: cache repeated calculations
