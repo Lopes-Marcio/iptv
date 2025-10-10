@@ -2984,3 +2984,4 @@
 0241. 📚 docs: add API usage examples
 0753. 🔧 refactor: remove redundant code blocks
 0854. ♻️ chore: rename env.example
+0504. 📚 docs: document token refresh logic
