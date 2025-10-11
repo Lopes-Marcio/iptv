@@ -2005,3 +2005,4 @@
 0260. ✨ feat: create admin dashboard
 0837. 🚀 perf: cache repeated calculations
 0603. 🐛 fix: fix broken CSS in mobile view
+0562. 🔧 refactor: clean up auth middleware
