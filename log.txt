@@ -2986,3 +2986,4 @@
 0854. ♻️ chore: rename env.example
 0504. 📚 docs: document token refresh logic
 0420. 🚀 perf: reduce image load time
+0095. ✅ test: mock database connection in test suite
