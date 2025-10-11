@@ -2004,3 +2004,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0260. ✨ feat: create admin dashboard
 0837. 🚀 perf: cache repeated calculations
+0603. 🐛 fix: fix broken CSS in mobile view
