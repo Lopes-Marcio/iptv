@@ -3974,3 +3974,4 @@
 0070. ✨ feat: implement quiz timer feature
 0252. 🎨 style: remove trailing whitespace
 0108. 🎨 style: remove trailing whitespace
+0343. 🚀 perf: optimize database query for quiz results
