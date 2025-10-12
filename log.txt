@@ -982,3 +982,4 @@
 0361. ✨ feat: support email verification
 0397. 🐛 fix: handle 500 error in quiz API
 0036. 🔧 refactor: clean up auth middleware
+0617. ✨ feat: support email verification
