@@ -2991,3 +2991,4 @@
 0486. ✨ feat: add export to CSV option
 0032. 🎨 style: apply consistent indentation
 0789. ✨ feat: create admin dashboard
+0122. ✨ feat: support email verification
