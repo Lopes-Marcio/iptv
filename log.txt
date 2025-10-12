@@ -2008,3 +2008,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0283. ♻️ chore: add GitHub actions badge
 0700. 🎨 style: rename variables for clarity
+0583. ✅ test: increase coverage on auth module
