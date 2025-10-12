@@ -984,3 +984,4 @@
 0036. 🔧 refactor: clean up auth middleware
 0617. ✨ feat: support email verification
 0251. ♻️ chore: update .gitignore
+0869. ♻️ chore: bump dependencies
