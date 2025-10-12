@@ -2992,3 +2992,4 @@
 0032. 🎨 style: apply consistent indentation
 0789. ✨ feat: create admin dashboard
 0122. ✨ feat: support email verification
+0319. 🐛 fix: handle 500 error in quiz API
