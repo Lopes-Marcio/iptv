@@ -2995,3 +2995,4 @@
 0319. 🐛 fix: handle 500 error in quiz API
 0912. 📚 docs: document token refresh logic
 0744. 🔧 refactor: remove redundant code blocks
+0457. 🐛 fix: handle 500 error in quiz API
