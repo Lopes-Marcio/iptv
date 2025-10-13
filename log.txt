@@ -180,3 +180,4 @@
 0793. 📚 docs: clarify environment setup
 0655. 🚀 perf: cache repeated calculations
 0928. 🎨 style: apply consistent indentation
+0826. 📚 docs: clarify environment setup
