@@ -3986,3 +3986,4 @@
 0663. 🚀 perf: reduce image load time
 0552. 🐛 fix: fix null pointer exception on login
 0221. ✨ feat: add user authentication
+0286. ✅ test: mock database connection in test suite
