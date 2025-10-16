@@ -992,3 +992,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0651. ✨ feat: enable dark mode toggle
 0782. 📚 docs: improve code comments in utils
+0779. 🔧 refactor: organize models into subfolders
