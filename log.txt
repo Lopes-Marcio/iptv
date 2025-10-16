@@ -2018,3 +2018,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0975. 🎨 style: apply consistent indentation
 0333. 🚀 perf: cache repeated calculations
+0025. 🚀 perf: optimize database query for quiz results
