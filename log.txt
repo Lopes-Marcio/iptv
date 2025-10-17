@@ -3009,3 +3009,4 @@
 0399. ✅ test: mock database connection in test suite
 0715. ✨ feat: create admin dashboard
 0567. 📚 docs: add API usage examples
+0871. ✅ test: add integration test for /submit endpoint
