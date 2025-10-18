@@ -3012,3 +3012,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0815. 🔧 refactor: split large controller into smaller functions
 0653. 🐛 fix: prevent crash on empty input
+0152. ✨ feat: add user authentication
