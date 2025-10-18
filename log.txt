@@ -2022,3 +2022,4 @@
 0441. 📚 docs: add API usage examples
 0611. ✅ test: test user registration edge cases
 0300. ✨ feat: add export to CSV option
+0600. 🐛 fix: prevent crash on empty input
