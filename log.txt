@@ -3015,3 +3015,4 @@
 0152. ✨ feat: add user authentication
 0631. ✨ feat: create admin dashboard
 0508. ✅ test: add unit test for quiz service
+0738. 🐛 fix: prevent crash on empty input
