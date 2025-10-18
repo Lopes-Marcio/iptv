@@ -998,3 +998,4 @@
 0595. ✨ feat: enable dark mode toggle
 0461. ✨ feat: add user authentication
 0717. 🔧 refactor: refactor quiz grading logic
+0086. 🐛 fix: correct typo in registration form
