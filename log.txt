@@ -1000,3 +1000,4 @@
 0717. 🔧 refactor: refactor quiz grading logic
 0086. 🐛 fix: correct typo in registration form
 0258. 🐛 fix: prevent crash on empty input
+0380. 🐛 fix: fix null pointer exception on login
