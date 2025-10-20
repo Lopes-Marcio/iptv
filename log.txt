@@ -1003,3 +1003,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0575. ✅ test: add unit test for quiz service
 0836. 🚀 perf: optimize database query for quiz results
+0688. 🚀 perf: reduce image load time
