@@ -4007,3 +4007,4 @@
 0615. 🐛 fix: correct typo in registration form
 0522. 🐛 fix: handle 500 error in quiz API
 0643. 🎨 style: apply consistent indentation
+0826. 📚 docs: clarify environment setup
