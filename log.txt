@@ -2031,3 +2031,4 @@
 0384. 📚 docs: clarify environment setup
 0275. 🎨 style: standardize quote style
 0314. ✨ feat: implement quiz timer feature
+0136. 🚀 perf: lazy-load components
