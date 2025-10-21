@@ -1006,3 +1006,4 @@
 0688. 🚀 perf: reduce image load time
 0272. 🔧 refactor: remove redundant code blocks
 0870. ♻️ chore: clean up unused files
+0778. 📚 docs: write FAQ section
