@@ -2035,3 +2035,4 @@
 0765. ♻️ chore: clean up unused files
 0682. ♻️ chore: rename env.example
 0169. 📚 docs: add API usage examples
+0816. 🔧 refactor: organize models into subfolders
