@@ -4010,3 +4010,4 @@
 0826. 📚 docs: clarify environment setup
 0535. 📚 docs: write FAQ section
 0159. 🚀 perf: lazy-load components
+0370. 🚀 perf: reduce image load time
