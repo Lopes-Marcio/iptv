@@ -4013,3 +4013,4 @@
 0370. 🚀 perf: reduce image load time
 0626. 🎨 style: standardize quote style
 0678. ✨ feat: add user authentication
+0875. ✅ test: increase coverage on auth module
