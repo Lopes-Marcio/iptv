@@ -3028,3 +3028,4 @@
 0922. 📚 docs: write FAQ section
 0697. ♻️ chore: bump dependencies
 0451. ✨ feat: support email verification
+0189. 📚 docs: clarify environment setup
