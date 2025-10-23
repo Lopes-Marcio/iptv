@@ -2041,3 +2041,4 @@
 0487. 🎨 style: reformat files with black
 0315. ✅ test: add integration test for /submit endpoint
 0891. ✨ feat: create admin dashboard
+0140. 🐛 fix: handle 500 error in quiz API
