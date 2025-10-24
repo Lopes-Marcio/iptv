@@ -3029,3 +3029,4 @@
 0697. ♻️ chore: bump dependencies
 0451. ✨ feat: support email verification
 0189. 📚 docs: clarify environment setup
+0837. 🚀 perf: cache repeated calculations
