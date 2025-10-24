@@ -2043,3 +2043,4 @@
 0891. ✨ feat: create admin dashboard
 0140. 🐛 fix: handle 500 error in quiz API
 0540. ♻️ chore: add GitHub actions badge
+0613. 🐛 fix: prevent crash on empty input
