@@ -3035,3 +3035,4 @@
 0017. ✅ test: mock database connection in test suite
 0298. ♻️ chore: update .gitignore
 0477. 🐛 fix: fix broken CSS in mobile view
+0383. 🐛 fix: fix broken CSS in mobile view
