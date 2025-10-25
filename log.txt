@@ -3037,3 +3037,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0383. 🐛 fix: fix broken CSS in mobile view
 0368. 🚀 perf: lazy-load components
+0083. 🎨 style: reformat files with black
