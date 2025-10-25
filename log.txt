@@ -3038,3 +3038,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0368. 🚀 perf: lazy-load components
 0083. 🎨 style: reformat files with black
+0875. ✅ test: increase coverage on auth module
