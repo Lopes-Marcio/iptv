@@ -3036,3 +3036,4 @@
 0298. ♻️ chore: update .gitignore
 0477. 🐛 fix: fix broken CSS in mobile view
 0383. 🐛 fix: fix broken CSS in mobile view
+0368. 🚀 perf: lazy-load components
