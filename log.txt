@@ -2044,3 +2044,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0540. ♻️ chore: add GitHub actions badge
 0613. 🐛 fix: prevent crash on empty input
+0418. ✅ test: mock database connection in test suite
