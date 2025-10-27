@@ -1017,3 +1017,4 @@
 0152. ✨ feat: add user authentication
 0970. ♻️ chore: update .gitignore
 0167. 🚀 perf: reduce image load time
+0902. ✨ feat: enable dark mode toggle
