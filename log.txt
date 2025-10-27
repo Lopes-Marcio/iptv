@@ -4028,3 +4028,4 @@
 0604. 📚 docs: add API usage examples
 0076. 🎨 style: reformat files with black
 0331. 🐛 fix: fix broken CSS in mobile view
+0195. 📚 docs: clarify environment setup
