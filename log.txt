@@ -3048,3 +3048,4 @@
 1000. ✅ test: increase coverage on auth module
 0950. 🎨 style: reformat files with black
 0976. ✨ feat: implement quiz timer feature
+0149. ✨ feat: add export to CSV option
