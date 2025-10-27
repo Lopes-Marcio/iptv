@@ -2049,3 +2049,4 @@
 0966. 📚 docs: improve code comments in utils
 0888. 🚀 perf: lazy-load components
 0335. ♻️ chore: update .gitignore
+0305. ✨ feat: enable dark mode toggle
