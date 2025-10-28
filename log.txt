@@ -4030,3 +4030,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0195. 📚 docs: clarify environment setup
 0935. 📚 docs: update README with setup steps
+0181. ♻️ chore: add GitHub actions badge
