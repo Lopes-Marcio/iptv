@@ -4036,3 +4036,4 @@
 0160. ♻️ chore: bump dependencies
 0060. ♻️ chore: clean up unused files
 0960. ✅ test: increase coverage on auth module
+0517. ✅ test: mock database connection in test suite
