@@ -4038,3 +4038,4 @@
 0960. ✅ test: increase coverage on auth module
 0517. ✅ test: mock database connection in test suite
 0549. ✨ feat: enable dark mode toggle
+0684. 🚀 perf: reduce image load time
