@@ -1030,3 +1030,4 @@
 0495. 🔧 refactor: remove redundant code blocks
 0562. 🔧 refactor: clean up auth middleware
 0817. 🔧 refactor: remove redundant code blocks
+0362. 📚 docs: add API usage examples
