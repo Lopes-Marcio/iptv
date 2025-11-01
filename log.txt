@@ -2056,3 +2056,4 @@
 0519. 📚 docs: document token refresh logic
 0769. ✨ feat: create admin dashboard
 0331. 🐛 fix: fix broken CSS in mobile view
+0714. 📚 docs: improve code comments in utils
