@@ -2057,3 +2057,4 @@
 0769. ✨ feat: create admin dashboard
 0331. 🐛 fix: fix broken CSS in mobile view
 0714. 📚 docs: improve code comments in utils
+0113. ✨ feat: add user authentication
