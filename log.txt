@@ -2058,3 +2058,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0714. 📚 docs: improve code comments in utils
 0113. ✨ feat: add user authentication
+0114. ♻️ chore: update .gitignore
