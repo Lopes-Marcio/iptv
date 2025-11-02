@@ -1038,3 +1038,4 @@
 0382. 📚 docs: improve code comments in utils
 0594. 🎨 style: reformat files with black
 0721. 🚀 perf: optimize database query for quiz results
+0253. 📚 docs: update README with setup steps
