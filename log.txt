@@ -2064,3 +2064,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0784. ♻️ chore: clean up unused files
 0635. 🎨 style: apply consistent indentation
+0828. ♻️ chore: add GitHub actions badge
