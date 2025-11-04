@@ -1045,3 +1045,4 @@
 0117. ✅ test: increase coverage on auth module
 0071. 🔧 refactor: refactor quiz grading logic
 0063. 🐛 fix: handle 500 error in quiz API
+0003. ✅ test: increase coverage on auth module
