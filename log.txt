@@ -1042,3 +1042,4 @@
 0985. 📚 docs: document token refresh logic
 0312. ✨ feat: add user authentication
 0751. 🐛 fix: handle 500 error in quiz API
+0117. ✅ test: increase coverage on auth module
