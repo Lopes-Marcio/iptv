@@ -1048,3 +1048,4 @@
 0003. ✅ test: increase coverage on auth module
 0916. ♻️ chore: bump dependencies
 0160. ♻️ chore: bump dependencies
+0854. ♻️ chore: rename env.example
