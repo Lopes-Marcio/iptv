@@ -1060,3 +1060,4 @@
 0849. 🐛 fix: correct typo in registration form
 0050. ✨ feat: enable dark mode toggle
 0847. ♻️ chore: clean up unused files
+0097. 🐛 fix: handle 500 error in quiz API
