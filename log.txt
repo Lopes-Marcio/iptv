@@ -2073,3 +2073,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0377. ✨ feat: add user authentication
 0666. 🐛 fix: fix broken CSS in mobile view
+0720. ✨ feat: add export to CSV option
