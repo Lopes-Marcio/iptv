@@ -2072,3 +2072,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0718. 🐛 fix: resolve issue with date parsing
 0377. ✨ feat: add user authentication
+0666. 🐛 fix: fix broken CSS in mobile view
