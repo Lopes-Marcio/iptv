@@ -1065,3 +1065,4 @@
 0426. ✅ test: add integration test for /submit endpoint
 0524. ♻️ chore: rename env.example
 0408. ♻️ chore: add GitHub actions badge
+0901. ✨ feat: add user authentication
