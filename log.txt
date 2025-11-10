@@ -2075,3 +2075,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0720. ✨ feat: add export to CSV option
 0117. ✅ test: increase coverage on auth module
+0576. ♻️ chore: update .gitignore
