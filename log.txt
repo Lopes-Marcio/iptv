@@ -1070,3 +1070,4 @@
 0567. 📚 docs: add API usage examples
 0553. 🐛 fix: correct typo in registration form
 0520. 🐛 fix: fix null pointer exception on login
+0278. 🔧 refactor: clean up auth middleware
