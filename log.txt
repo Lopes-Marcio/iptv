@@ -2076,3 +2076,4 @@
 0720. ✨ feat: add export to CSV option
 0117. ✅ test: increase coverage on auth module
 0576. ♻️ chore: update .gitignore
+0758. 🚀 perf: optimize database query for quiz results
