@@ -3071,3 +3071,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0202. 🔧 refactor: refactor quiz grading logic
 0467. ✅ test: add integration test for /submit endpoint
+0654. ✨ feat: create admin dashboard
