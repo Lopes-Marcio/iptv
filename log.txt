@@ -3074,3 +3074,4 @@
 0654. ✨ feat: create admin dashboard
 0021. ✨ feat: support email verification
 0321. 🔧 refactor: organize models into subfolders
+0078. ♻️ chore: update .gitignore
