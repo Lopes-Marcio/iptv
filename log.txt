@@ -4069,3 +4069,4 @@
 0786. ✨ feat: enable dark mode toggle
 0853. 🔧 refactor: refactor quiz grading logic
 0163. ✨ feat: implement quiz timer feature
+0566. 📚 docs: write FAQ section
