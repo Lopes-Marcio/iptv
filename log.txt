@@ -4073,3 +4073,4 @@
 0253. 📚 docs: update README with setup steps
 0651. ✨ feat: enable dark mode toggle
 0316. 🐛 fix: fix broken CSS in mobile view
+0298. ♻️ chore: update .gitignore
