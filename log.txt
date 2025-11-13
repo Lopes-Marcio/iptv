@@ -1075,3 +1075,4 @@
 0311. 🎨 style: apply consistent indentation
 0213. ✅ test: add integration test for /submit endpoint
 0116. ✨ feat: support email verification
+0085. ✨ feat: support email verification
