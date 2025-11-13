@@ -2080,3 +2080,4 @@
 0077. ♻️ chore: rename env.example
 0376. 🎨 style: apply consistent indentation
 0602. 🔧 refactor: remove redundant code blocks
+0430. 🐛 fix: fix null pointer exception on login
