@@ -4076,3 +4076,4 @@
 0298. ♻️ chore: update .gitignore
 0783. 🐛 fix: handle 500 error in quiz API
 0231. 🔧 refactor: clean up auth middleware
+0711. 🐛 fix: fix broken CSS in mobile view
