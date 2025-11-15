@@ -1079,3 +1079,4 @@
 0853. 🔧 refactor: refactor quiz grading logic
 0859. ✨ feat: create admin dashboard
 0453. 🎨 style: standardize quote style
+0649. 📚 docs: update README with setup steps
