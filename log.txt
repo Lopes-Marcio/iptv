@@ -4082,3 +4082,4 @@
 0178. ✨ feat: support email verification
 0313. 🎨 style: apply consistent indentation
 0890. 🔧 refactor: organize models into subfolders
+0677. 📚 docs: add API usage examples
