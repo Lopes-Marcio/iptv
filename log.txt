@@ -4079,3 +4079,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0063. 🐛 fix: handle 500 error in quiz API
 0697. ♻️ chore: bump dependencies
+0178. ✨ feat: support email verification
