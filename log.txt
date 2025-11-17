@@ -3086,3 +3086,4 @@
 0115. 🚀 perf: reduce image load time
 0183. 🔧 refactor: split large controller into smaller functions
 0594. 🎨 style: reformat files with black
+0462. ♻️ chore: update .gitignore
