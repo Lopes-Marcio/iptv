@@ -4091,3 +4091,4 @@
 0412. ✅ test: increase coverage on auth module
 0929. ✨ feat: support email verification
 0367. 🐛 fix: fix null pointer exception on login
+0212. 🎨 style: standardize quote style
