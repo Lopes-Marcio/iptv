@@ -3091,3 +3091,4 @@
 0980. 🎨 style: reformat files with black
 0551. 📚 docs: write FAQ section
 0310. 🔧 refactor: refactor quiz grading logic
+0339. 📚 docs: update README with setup steps
