@@ -2095,3 +2095,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0153. ♻️ chore: rename env.example
 0254. 🚀 perf: reduce image load time
+0685. ✅ test: test user registration edge cases
