@@ -4098,3 +4098,4 @@
 0355. 🚀 perf: optimize database query for quiz results
 0585. 🚀 perf: lazy-load components
 0401. 🚀 perf: reduce image load time
+0957. 🐛 fix: fix null pointer exception on login
