@@ -2098,3 +2098,4 @@
 0685. ✅ test: test user registration edge cases
 0337. 📚 docs: document token refresh logic
 0241. 📚 docs: add API usage examples
+0208. 🔧 refactor: clean up auth middleware
