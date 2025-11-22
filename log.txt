@@ -2105,3 +2105,4 @@
 0535. 📚 docs: write FAQ section
 0368. 🚀 perf: lazy-load components
 0582. ✨ feat: add export to CSV option
+0862. ♻️ chore: bump dependencies
