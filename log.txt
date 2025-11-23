@@ -1092,3 +1092,4 @@
 0392. 🎨 style: remove trailing whitespace
 0190. 🎨 style: rename variables for clarity
 0973. 🔧 refactor: organize models into subfolders
+0320. 📚 docs: update README with setup steps
