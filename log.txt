@@ -1094,3 +1094,4 @@
 0973. 🔧 refactor: organize models into subfolders
 0320. 📚 docs: update README with setup steps
 0643. 🎨 style: apply consistent indentation
+0686. 🎨 style: standardize quote style
