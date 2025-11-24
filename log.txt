@@ -2110,3 +2110,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0399. ✅ test: mock database connection in test suite
 0352. ✨ feat: add export to CSV option
+0569. 📚 docs: document token refresh logic
