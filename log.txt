@@ -3106,3 +3106,4 @@
 0914. ✅ test: test user registration edge cases
 0938. 🎨 style: rename variables for clarity
 0170. ✅ test: increase coverage on auth module
+0470. 🎨 style: remove trailing whitespace
