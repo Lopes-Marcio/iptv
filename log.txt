@@ -1099,3 +1099,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0566. 📚 docs: write FAQ section
 0546. 🐛 fix: fix null pointer exception on login
+0470. 🎨 style: remove trailing whitespace
