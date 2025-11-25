@@ -4109,3 +4109,4 @@
 0265. 🎨 style: reformat files with black
 0898. 🐛 fix: fix broken CSS in mobile view
 0978. 🐛 fix: prevent crash on empty input
+0722. 📚 docs: add API usage examples
