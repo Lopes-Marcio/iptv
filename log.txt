@@ -4108,3 +4108,4 @@
 0869. ♻️ chore: bump dependencies
 0265. 🎨 style: reformat files with black
 0898. 🐛 fix: fix broken CSS in mobile view
+0978. 🐛 fix: prevent crash on empty input
