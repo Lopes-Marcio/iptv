@@ -191,3 +191,4 @@
 0915. 🚀 perf: cache repeated calculations
 0195. 📚 docs: clarify environment setup
 0428. 🐛 fix: fix null pointer exception on login
+0489. 🔧 refactor: organize models into subfolders
