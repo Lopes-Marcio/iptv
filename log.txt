@@ -1107,3 +1107,4 @@
 0429. ✨ feat: add user authentication
 0625. 🐛 fix: handle 500 error in quiz API
 0623. 🎨 style: standardize quote style
+0947. 📚 docs: write FAQ section
