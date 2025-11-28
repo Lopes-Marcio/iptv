@@ -4118,3 +4118,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0049. 🐛 fix: handle 500 error in quiz API
 0215. 🎨 style: reformat files with black
+0961. 📚 docs: add API usage examples
