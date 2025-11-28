@@ -4119,3 +4119,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0215. 🎨 style: reformat files with black
 0961. 📚 docs: add API usage examples
+0312. ✨ feat: add user authentication
