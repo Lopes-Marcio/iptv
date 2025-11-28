@@ -1105,3 +1105,4 @@
 0062. ♻️ chore: update .gitignore
 0732. ♻️ chore: add GitHub actions badge
 0429. ✨ feat: add user authentication
+0625. 🐛 fix: handle 500 error in quiz API
