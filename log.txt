@@ -2127,3 +2127,4 @@
 0257. 📚 docs: clarify environment setup
 0810. 🔧 refactor: refactor quiz grading logic
 0701. 🔧 refactor: clean up auth middleware
+0923. ✨ feat: support email verification
