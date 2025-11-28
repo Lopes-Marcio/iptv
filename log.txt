@@ -2128,3 +2128,4 @@
 0810. 🔧 refactor: refactor quiz grading logic
 0701. 🔧 refactor: clean up auth middleware
 0923. ✨ feat: support email verification
+0409. 🚀 perf: lazy-load components
