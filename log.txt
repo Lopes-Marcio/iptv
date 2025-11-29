@@ -3113,3 +3113,4 @@
 0093. ✅ test: add unit test for quiz service
 0173. 🚀 perf: cache repeated calculations
 0291. 📚 docs: write FAQ section
+0461. ✨ feat: add user authentication
