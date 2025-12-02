@@ -3125,3 +3125,4 @@
 0172. 📚 docs: add API usage examples
 0800. 🚀 perf: optimize database query for quiz results
 0955. 🔧 refactor: remove redundant code blocks
+0063. 🐛 fix: handle 500 error in quiz API
