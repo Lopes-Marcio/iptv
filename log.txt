@@ -4130,3 +4130,4 @@
 0541. 🐛 fix: correct typo in registration form
 0037. 🐛 fix: correct typo in registration form
 0666. 🐛 fix: fix broken CSS in mobile view
+0950. 🎨 style: reformat files with black
