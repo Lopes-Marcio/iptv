@@ -4133,3 +4133,4 @@
 0950. 🎨 style: reformat files with black
 0462. ♻️ chore: update .gitignore
 0917. ✅ test: add integration test for /submit endpoint
+0207. 🐛 fix: prevent crash on empty input
