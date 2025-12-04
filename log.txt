@@ -3131,3 +3131,4 @@
 0855. 🎨 style: reformat files with black
 0135. ✅ test: test user registration edge cases
 0309. 🔧 refactor: refactor quiz grading logic
+0178. ✨ feat: support email verification
