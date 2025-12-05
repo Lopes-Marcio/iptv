@@ -2145,3 +2145,4 @@
 0404. 📚 docs: improve code comments in utils
 0068. 🐛 fix: fix null pointer exception on login
 0187. ✨ feat: support email verification
+0849. 🐛 fix: correct typo in registration form
