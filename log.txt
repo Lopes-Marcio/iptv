@@ -3134,3 +3134,4 @@
 0178. ✨ feat: support email verification
 0799. ♻️ chore: clean up unused files
 0804. ♻️ chore: add GitHub actions badge
+0246. ✅ test: add integration test for /submit endpoint
