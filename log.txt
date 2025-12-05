@@ -1126,3 +1126,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0618. ✨ feat: support email verification
 0348. ✅ test: test user registration edge cases
+0563. 📚 docs: clarify environment setup
