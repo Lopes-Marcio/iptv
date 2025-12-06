@@ -195,3 +195,4 @@
 0132. ✅ test: add unit test for quiz service
 0926. 🔧 refactor: organize models into subfolders
 0271. ✅ test: add unit test for quiz service
+0394. 🚀 perf: lazy-load components
