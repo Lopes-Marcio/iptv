@@ -4140,3 +4140,4 @@
 0317. ✅ test: test user registration edge cases
 0377. ✨ feat: add user authentication
 0494. 🎨 style: rename variables for clarity
+0520. 🐛 fix: fix null pointer exception on login
