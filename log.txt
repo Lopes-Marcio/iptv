@@ -1133,3 +1133,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0191. 🔧 refactor: refactor quiz grading logic
 0766. 🎨 style: reformat files with black
+0467. ✅ test: add integration test for /submit endpoint
