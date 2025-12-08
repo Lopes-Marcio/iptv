@@ -1132,3 +1132,4 @@
 0831. 📚 docs: clarify environment setup
 0791. 🔧 refactor: clean up auth middleware
 0191. 🔧 refactor: refactor quiz grading logic
+0766. 🎨 style: reformat files with black
