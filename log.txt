@@ -4147,3 +4147,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0013. ✅ test: increase coverage on auth module
 0534. 🔧 refactor: split large controller into smaller functions
+0406. ✨ feat: add export to CSV option
