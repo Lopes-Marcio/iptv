@@ -3144,3 +3144,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0134. ✨ feat: implement quiz timer feature
 0125. ✅ test: add integration test for /submit endpoint
+0080. ✨ feat: support email verification
