@@ -197,3 +197,4 @@
 0271. ✅ test: add unit test for quiz service
 0394. 🚀 perf: lazy-load components
 0011. ✅ test: add unit test for quiz service
+0571. 🔧 refactor: clean up auth middleware
