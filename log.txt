@@ -1143,3 +1143,4 @@
 0128. ♻️ chore: rename env.example
 0911. ✅ test: increase coverage on auth module
 0719. 🎨 style: apply consistent indentation
+0448. 🐛 fix: correct typo in registration form
