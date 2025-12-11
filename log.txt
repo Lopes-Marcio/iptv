@@ -4154,3 +4154,4 @@
 0827. 🚀 perf: optimize database query for quiz results
 0673. 🐛 fix: correct typo in registration form
 0778. 📚 docs: write FAQ section
+0101. 📚 docs: clarify environment setup
