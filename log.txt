@@ -1148,3 +1148,4 @@
 0942. ✅ test: increase coverage on auth module
 0589. 🐛 fix: fix broken CSS in mobile view
 0984. ♻️ chore: clean up unused files
+0934. ✨ feat: support email verification
