@@ -2153,3 +2153,4 @@
 0124. 🎨 style: reformat files with black
 0721. 🚀 perf: optimize database query for quiz results
 0198. 📚 docs: clarify environment setup
+0224. 🐛 fix: fix broken CSS in mobile view
