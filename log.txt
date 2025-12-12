@@ -3151,3 +3151,4 @@
 0023. 📚 docs: clarify environment setup
 0954. 🚀 perf: cache repeated calculations
 0627. 📚 docs: document token refresh logic
+0029. 🚀 perf: lazy-load components
