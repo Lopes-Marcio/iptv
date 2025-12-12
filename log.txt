@@ -2156,3 +2156,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0831. 📚 docs: clarify environment setup
 0605. ✨ feat: support email verification
+0868. ✅ test: add unit test for quiz service
