@@ -2157,3 +2157,4 @@
 0831. 📚 docs: clarify environment setup
 0605. ✨ feat: support email verification
 0868. ✅ test: add unit test for quiz service
+0215. 🎨 style: reformat files with black
