@@ -4159,3 +4159,4 @@
 0784. ♻️ chore: clean up unused files
 0029. 🚀 perf: lazy-load components
 0925. ✨ feat: add export to CSV option
+0107. 🐛 fix: prevent crash on empty input
