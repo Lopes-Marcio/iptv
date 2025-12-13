@@ -4164,3 +4164,4 @@
 0695. ✨ feat: create admin dashboard
 0578. ✅ test: add integration test for /submit endpoint
 0092. 🚀 perf: reduce image load time
+0698. 🐛 fix: handle 500 error in quiz API
