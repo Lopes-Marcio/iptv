@@ -1151,3 +1151,4 @@
 0934. ✨ feat: support email verification
 0697. ♻️ chore: bump dependencies
 0010. ✨ feat: add user authentication
+0855. 🎨 style: reformat files with black
