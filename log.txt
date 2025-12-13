@@ -3153,3 +3153,4 @@
 0627. 📚 docs: document token refresh logic
 0029. 🚀 perf: lazy-load components
 0576. ♻️ chore: update .gitignore
+0541. 🐛 fix: correct typo in registration form
