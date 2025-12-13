@@ -2159,3 +2159,4 @@
 0868. ✅ test: add unit test for quiz service
 0215. 🎨 style: reformat files with black
 0642. 🚀 perf: optimize database query for quiz results
+0030. 🐛 fix: fix null pointer exception on login
