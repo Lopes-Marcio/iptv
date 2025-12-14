@@ -1152,3 +1152,4 @@
 0697. ♻️ chore: bump dependencies
 0010. ✨ feat: add user authentication
 0855. 🎨 style: reformat files with black
+0940. 📚 docs: document token refresh logic
