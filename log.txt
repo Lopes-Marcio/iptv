@@ -1154,3 +1154,4 @@
 0855. 🎨 style: reformat files with black
 0940. 📚 docs: document token refresh logic
 0415. 🐛 fix: handle 500 error in quiz API
+0829. 🔧 refactor: organize models into subfolders
