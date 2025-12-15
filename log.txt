@@ -4174,3 +4174,4 @@
 0021. ✨ feat: support email verification
 0747. 🔧 refactor: clean up auth middleware
 0551. 📚 docs: write FAQ section
+0325. 🎨 style: rename variables for clarity
