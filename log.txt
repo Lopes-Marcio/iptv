@@ -1161,3 +1161,4 @@
 0824. 🚀 perf: lazy-load components
 0387. ✨ feat: enable dark mode toggle
 0631. ✨ feat: create admin dashboard
+0295. 🎨 style: remove trailing whitespace
