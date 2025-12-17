@@ -2172,3 +2172,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0307. ✨ feat: support email verification
 0055. 📚 docs: update README with setup steps
+0171. 🐛 fix: fix broken CSS in mobile view
