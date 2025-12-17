@@ -2171,3 +2171,4 @@
 0152. ✨ feat: add user authentication
 0130. 🔧 refactor: split large controller into smaller functions
 0307. ✨ feat: support email verification
+0055. 📚 docs: update README with setup steps
