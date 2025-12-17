@@ -1164,3 +1164,4 @@
 0295. 🎨 style: remove trailing whitespace
 0170. ✅ test: increase coverage on auth module
 0514. 🐛 fix: fix broken CSS in mobile view
+0241. 📚 docs: add API usage examples
