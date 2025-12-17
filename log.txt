@@ -2170,3 +2170,4 @@
 0267. 📚 docs: improve code comments in utils
 0152. ✨ feat: add user authentication
 0130. 🔧 refactor: split large controller into smaller functions
+0307. ✨ feat: support email verification
