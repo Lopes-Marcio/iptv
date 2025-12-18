@@ -3166,3 +3166,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0521. 🎨 style: standardize quote style
 0546. 🐛 fix: fix null pointer exception on login
+0514. 🐛 fix: fix broken CSS in mobile view
