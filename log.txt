@@ -2176,3 +2176,4 @@
 0742. 📚 docs: clarify environment setup
 0627. 📚 docs: document token refresh logic
 0996. ✅ test: test user registration edge cases
+0118. 🚀 perf: reduce image load time
