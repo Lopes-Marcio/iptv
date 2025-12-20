@@ -1167,3 +1167,4 @@
 0241. 📚 docs: add API usage examples
 0414. 🔧 refactor: remove redundant code blocks
 0702. ✨ feat: add user authentication
+0006. 🐛 fix: prevent crash on empty input
