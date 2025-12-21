@@ -4181,3 +4181,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0301. 🎨 style: apply consistent indentation
 0807. 🔧 refactor: remove redundant code blocks
+0997. ✅ test: increase coverage on auth module
