@@ -2181,3 +2181,4 @@
 0800. 🚀 perf: optimize database query for quiz results
 0017. ✅ test: mock database connection in test suite
 0759. 🔧 refactor: organize models into subfolders
+0947. 📚 docs: write FAQ section
