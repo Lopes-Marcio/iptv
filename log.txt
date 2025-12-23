@@ -3184,3 +3184,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0828. ♻️ chore: add GitHub actions badge
 0838. 🎨 style: standardize quote style
+0519. 📚 docs: document token refresh logic
