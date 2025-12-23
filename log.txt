@@ -3182,3 +3182,4 @@
 0564. 📚 docs: clarify environment setup
 0861. ♻️ chore: clean up unused files
 0506. 🐛 fix: handle 500 error in quiz API
+0828. ♻️ chore: add GitHub actions badge
