@@ -1179,3 +1179,4 @@
 0314. ✨ feat: implement quiz timer feature
 0073. 🔧 refactor: split large controller into smaller functions
 0641. 📚 docs: write FAQ section
+0604. 📚 docs: add API usage examples
