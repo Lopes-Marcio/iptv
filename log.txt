@@ -4184,3 +4184,4 @@
 0997. ✅ test: increase coverage on auth module
 0345. 📚 docs: document token refresh logic
 0947. 📚 docs: write FAQ section
+0985. 📚 docs: document token refresh logic
