@@ -3186,3 +3186,4 @@
 0838. 🎨 style: standardize quote style
 0519. 📚 docs: document token refresh logic
 0338. ♻️ chore: add GitHub actions badge
+0590. 🐛 fix: fix null pointer exception on login
