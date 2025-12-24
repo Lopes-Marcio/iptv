@@ -4185,3 +4185,4 @@
 0345. 📚 docs: document token refresh logic
 0947. 📚 docs: write FAQ section
 0985. 📚 docs: document token refresh logic
+0062. ♻️ chore: update .gitignore
