@@ -1181,3 +1181,4 @@
 0641. 📚 docs: write FAQ section
 0604. 📚 docs: add API usage examples
 0694. 🎨 style: rename variables for clarity
+0344. ♻️ chore: add GitHub actions badge
