@@ -3190,3 +3190,4 @@
 0595. ✨ feat: enable dark mode toggle
 0401. 🚀 perf: reduce image load time
 0572. ✨ feat: add user authentication
+0542. 🔧 refactor: organize models into subfolders
