@@ -4187,3 +4187,4 @@
 0985. 📚 docs: document token refresh logic
 0062. ♻️ chore: update .gitignore
 0763. 🔧 refactor: organize models into subfolders
+0375. 🐛 fix: handle 500 error in quiz API
