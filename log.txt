@@ -1184,3 +1184,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0548. 📚 docs: write FAQ section
 0449. ✅ test: add unit test for quiz service
+0237. 🎨 style: standardize quote style
