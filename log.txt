@@ -2185,3 +2185,4 @@
 0903. ✅ test: mock database connection in test suite
 0799. ♻️ chore: clean up unused files
 0901. ✨ feat: add user authentication
+0522. 🐛 fix: handle 500 error in quiz API
