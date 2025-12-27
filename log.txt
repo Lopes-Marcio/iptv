@@ -2191,3 +2191,4 @@
 0887. 📚 docs: add API usage examples
 0323. 📚 docs: clarify environment setup
 0625. 🐛 fix: handle 500 error in quiz API
+0280. ✅ test: add integration test for /submit endpoint
